@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://example.org/"
+baseurl = "hardcore-yalow-5dab64.netlify.com"
 languageCode = "en-us"
 title = "Hugo Freelancer Theme"
 theme = "freelancer"
