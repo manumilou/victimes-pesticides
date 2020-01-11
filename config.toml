@@ -1,120 +1,95 @@
-# Site settings
-baseurl = "https://hardcore-yalow-5dab64.netlify.com/"
-languageCode = "en-us"
-title = "Hugo Freelancer Theme"
-theme = "freelancer"
+title = "Osprey Delight Demo"
+baseURL = "https://hardcore-yalow-5dab64.netlify.com/"
+languageCode = "en-US"
+theme = "osprey-delight"
+tags = ["personal", "homepage", "portfolio"]
+# canonifyURLS = true
+# googleAnalytics = ""
+disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use "tag" and "category" taxonomies
+enableEmoji = true
+
+## Generic theme parameters:
+[Params]
+  author = "kdevo"
+  email = ""
+  description = "osprey-delight example site"
+  tagline = "Hi there! Check out this theme."
+  logoBig = "/images/osprey-delight-logo.png"
+  # [str] This is the logo that will be shown in the left corner of the nav bar.
+  #   Usually, you would like to use something bigger than a favicon - but not too big either.
+  #   Make sure that the image does not overlay the nav links. Don't be afraid of experimenting! 
+  logoSmall = "favicon.png"
+  favicon = "favicon.png"
+  opengraphImage = "/images/osprey-delight.png"
+  googleTagManager = ""
+  # [bool] The following will enforce redirection to the baseURL for all sub-directories/-pages.
+  #   Example: If you create about.md, Hugo will also create a '/about/index.html'.
+  #   This file will only contain a redirect directive if this switch is enabled (recommended, since this is a one-page theme).
+  enforceSinglePage = true
+  # [bool] Will generate copyright notice in footer for your site.
+  copyright = true
+  # [bool] Your credit is much appreciated. It will be displayed in a small way in your footer.
+  #   Anyways, of course you're free to uncomment the following line to disable the credit.
+  # credit = false
+
+## Social media links in footer:
+[Params.Social]
+  # [str] Link to your Twitter.
+  twitter = ""
+  # [str] Link to your LinkedIn.
+  linkedin = ""
+  # [str] Link to your GitHub.
+  github = "https://github.com/kdevo/osprey-delight"
+  # [str] Link to your Facebook.
+  # facebook = ""
+  # [str] Link to your Instagram.
+  # instagram = ""
+  # [str] Link to your StackOverflow.
+  stackoverflow = ""
 
 
-[params]
+## Theme features:
+[Params.Feat]
+  # [bool] Termynal (https://github.com/ines/termynal) is a small JS library for showing a terminal "animation" from within your gallery item.
+  #   The library has been stripped-down to a minimum to only have the necessary functionality.
+  useTermynal = true
+  # [bool] Lazy loading of images with lazysizes (SEO-friendly).
+  lazyloading = true
+  # [str] Use Basin contact form.
+  ajaxBasin = "https://usebasin.com/f/{YOUR-12-CHAR-FORM-KEY-HERE}"
+  googleTagManager = ""
+  # [bool] Enable usage of your own 'assets/scss/_custom.css'.
+  customCSS = false
+  # [bool] Use structured data for your own https://schema.org/Person (SEO-friendly).
+  #   The theme attempts to "guess" your information by using the information you give it in the configuration.
+  #   For more specific usage, you can override the JSON-LD by supplying your own 'person.json' under 'assets/'
+  structuredData = true
+  # [str] Tell your GitHub username so that the GitHub API is used to fetch more information for structured data.
+  #   This will use information that is publically available about your GitHub user profile at https://api.github.com/users/{USERNAME}.
+  # structuredDataFromGithub = "USERNAME"
 
-    # You can use Markdown syntax for urls [text](//url.to/source) for
-    # most longer texts.
-
-    # To provide some metadata for search engines feel free to add a few
-    # information about you and your website.
-    name = "Mr. Hugo"
-    description = "My awesome description"
-
-    # Since this template is static, the contact form uses www.formspree.io as a
-    # proxy. The form makes a POST request to their servers to send the actual
-    # email. Visitors can send up to a 1000 emails each month for free.
-    #
-    # What you need to do for the setup?
-    #
-    # - set your email address under 'email' below
-    # - upload the generated site to your server
-    # - send a dummy email youself to confirm your account
-    # - click the confirm link in the email from www.formspree.io
-    # - you're done. Happy mailing!
-    email = "your@email.com"
-
-    # Custom assets
-	custom_css = []
-	custom_js  = []
-
-    [params.navigation]
-        brand = "Mr. Hugo's Portfolio"
+## Configure contact form:
+[Params.Contact]
+  # [str[]] i18n keys used to display in an additional select box.
+  #   Comment out if you want to disable it.
+  select = ["generic", "coop", "business", "project"]
 
 
-    [params.header]
-        # Copy your own image into './static/img/'' if you wish
-        image = "profile.png"
-        name = "Mr. Hugo"
-        subtitle = "Blogger - Programmer - Gopher"
-
-
-    [params.portfolio]
-        # All projects defined in their own files. You can find example projects
-        # at 'exampleSite/data/projects'. Copy the 'projects' folder into the 'data' directory
-        # at the root of this Hugo site.
-        # For more informtion take a look at the README.
-        title = "Portfolio"
-
-        [params.portfolio.modal]
-            client = "Client"
-            date = "Date"
-            category = "Category"
-            buttontext = "Close"
-
-
-    [params.about]
-        title = "About"
-        # The about text is splitted into a left and right column
-        left = "Freelancer is a free bootstrap theme created by Start Bootstrap. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional LESS stylesheets for easy customization."
-        right = "Whether you're a student looking to showcase your work, a professional looking to attract clients, or a graphic artist looking to share your projects, this template is the perfect starting point!"
-
-        [params.about.button]
-            text = "Download theme"
-            link = "//github.com/digitalcraftsman/hugo-freelancer-theme/archive/master.zip"
-            icon = "download"
-
-
-    [params.contact]
-        title = "Contact"
-
-        # 'error' defines error messages for invalid inputs
-        [params.contact.form.name]
-            text = "Name"
-            error = "Please enter your name."
-
-        [params.contact.form.email]
-            text = "Email Address"
-            error = "Please enter your email address."
-
-        [params.contact.form.phone]
-            text = "Phone Number"
-            error = "Please enter your phone number."
-
-        [params.contact.form.message]
-            text = "Message"
-            error = "Please enter a message."
-
-        [params.contact.form.button]
-            text = "Send"
-
-
-    [params.footer]
-        copyright = "Published under the Apache License 2.0. Powered by [Hugo](//gohugo.io)."
-
-        [params.footer.location]
-            title = "Location"
-            # Postal address (add as many lines as necessary)
-            address = ["3481 Melrose Place", "Beverly Hills, CA 90210"]
-
-        [params.footer.social]
-            title = "Around the web"
-            # All icons using Fontawesome's icon font. Look at fortawesome.github.io/Font-Awesome/icons/
-            # for more icons. The icons are represented by their corresponding
-            # CSS class.
-            [[params.footer.social.networks]]
-                icon = "fa-github"
-                link = "//github.com/spf13/hugo"
-
-            [[params.footer.social.networks]]
-                icon = "fa-stack-overflow"
-                link=  "//stackoverflow.com/questions/tagged/hugo"
-
-
-        [params.footer.credits]
-            title = "About Freelancer"
-            text = "Freelance is a free to use, open source Bootstrap theme created by [Start Bootstrap](//startbootstrap.com)."
+[[menu.main]]
+  name = "A propos"
+  url  = "/#about"
+  weight = 1
+[[menu.main]]
+  name = "Mission"
+  url  = "/#work"
+  weight = 2
+[[menu.main]]
+  name = "Contact"
+  url  = "/#contact"
+  weight = 3
+[[menu.main]]
+  # Use icon here to neatly back reference an external site/blog/whatever:
+  pre = "<i class='icon icon-link-ext'></i>&nbsp;"
+  name = ""
+  url  = "https://pyotek.dev"
+  weight = 4

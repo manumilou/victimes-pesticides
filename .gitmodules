@@ -4,3 +4,6 @@
 [submodule "themes/freelancer"]
 	path = themes/freelancer
 	url = https://github.com/digitalcraftsman/hugo-freelancer-theme
+[submodule "themes/osprey-delight"]
+	path = themes/osprey-delight
+	url = https://github.com/kdevo/osprey-delight.git
