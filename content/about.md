@@ -1,9 +1,9 @@
-# Mission
+# À Propos
 
-And here's my repo!
+*Victimes des pesticides du Québec* regroupent les personnes victimes des pesticides afin de défendre leurs droits
+et faire connaître aux instances gouvernementales et autres leurs revendications et
+recommandations pour un Québec en santé sans pesticides.
 
-Osprey Delight is a sugar-free version of the awesome Osprey theme by Toma Nistor for Hugo.
-
-It tastes a bit different than the original (hence the "light" in the name) but also adds some new functionality -- hopefully to your delight.
-
-Have fun using it! {{< icon "rocket icon-pulse-fast" >}}
+Régulièrement, des preuves scientifiques viennent démontrer le rôle des pesticides dans plusieurs maladies.
+Pourtant, les personnes touchées et leur entourage ne reçoivent que de très peu d’attention de la part
+la communauté médicale ou des institutions de santé publique. De plus, alors que l’utilisation des pesticides n’a jamais été aussi importante que ces dernières années, les gouvernements fédéral et provincial ne semblent toujours pas prêts à prendre des mesures suffisantes pour protéger la population.

@@ -1,4 +1,4 @@
-title = "Osprey Delight Demo"
+title = "Victimes des pesticides du Québec"
 baseURL = "https://hardcore-yalow-5dab64.netlify.com/"
 languageCode = "en-US"
 theme = "osprey-delight"
@@ -13,8 +13,8 @@ enableEmoji = true
   author = "kdevo"
   email = ""
   description = "osprey-delight example site"
-  tagline = "Hi there! Check out this theme."
-  logoBig = "/images/osprey-delight-logo.png"
+  tagline = "Pour un Québec en santé sans pesticides"
+  logoBig = "/images/temp-logo.png"
   # [str] This is the logo that will be shown in the left corner of the nav bar.
   #   Usually, you would like to use something bigger than a favicon - but not too big either.
   #   Make sure that the image does not overlay the nav links. Don't be afraid of experimenting! 
@@ -81,7 +81,7 @@ enableEmoji = true
   weight = 1
 [[menu.main]]
   name = "Mission"
-  url  = "/#work"
+  url  = "/#mission"
   weight = 2
 [[menu.main]]
   name = "Contact"
