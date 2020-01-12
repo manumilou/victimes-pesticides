@@ -1,7 +1,7 @@
-title = "Victimes des pesticides du Québec"
-baseURL = "https://hardcore-yalow-5dab64.netlify.com/"
+title = "Osprey Example Site"
+baseURL = "https://tomanistor.com"
 tags = ["portfolio", "web design", "blog"]
-languageCode = "fr-CA"
+languageCode = "en-US"
 config = "config.toml"
 theme = "osprey"
 canonifyURLS = true
@@ -10,11 +10,11 @@ disqusShortname = "tomanistor"
 disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use "tag" and "category" taxonomies
 
 [Params]
-  tagline = "Pour un Québec en santé sans pesticides"
-  author = "Victimes des pesticides du Québec"
-  description = ""
-  logoBig = "/temp-logo.png"
-  logoSmall = "/temp-logo.png"
+  tagline = "Osprey Example Site"
+  author = "Toma Nistor"
+  description = "Full-stack web developer and UI/UX enthusiast based in San Diego, CA."
+  logoBig = "/images/osprey-logo.png"
+  logoSmall = "/images/osprey-logo.png"
   favicon = "favicon.ico"
   opengraphImage = "/images/osprey.png"
   email = ""
@@ -48,13 +48,17 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
   lazyloading = true
 
 [[menu.main]]
-  name = "À Propos"
+  name = "About"
   url  = "/#about"
   weight = 1
 [[menu.main]]
-  name = "Mission"
-  url  = "/#mission"
+  name = "Work"
+  url  = "/#work"
   weight = 2
+[[menu.main]]
+  name = "Blog"
+  url  = "/#blog"
+  weight = 3
 [[menu.main]]
   name = "Contact"
   url  = "/#contact"
