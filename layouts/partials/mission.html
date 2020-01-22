@@ -1,0 +1,20 @@
+{{ $directory := "content/" }}
+{{ $filename := "mission.md" }}
+{{ if (where (readDir $directory) "Name" $filename) }}
+  <section class="mission" id="mission">
+    <div class="container middle-xs">
+      <div class="row center-xs">
+        <div class="col-xs-12">
+          <h1>{{ with $.Site.GetPage "page" "mission" }}{{ .Title }}{{ end }}</h1>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-xs-12 middle-xs">
+          {{ with $.Site.GetPage "page" "mission" }}
+            {{ .Content }}
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </section>
+{{ end }}
