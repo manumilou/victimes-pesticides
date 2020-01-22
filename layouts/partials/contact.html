@@ -1,0 +1,58 @@
+{{ if or (.Site.Params.ajaxFormspree) (.Site.Params.ajaxBasin) }}
+<section class="contact" id="contact">
+  <div class="container">
+
+    <div class="row">
+      <div class="col-xs-12">
+        <h1>Contactez-nous</h1>
+      </div>
+      <div class="col-xs-12">
+        <p>Vous avez une question ou un commentaire, n’hésitez pas, <br/>
+        contactez-nous: <a href="mailto: contact@victimespesticidesquebec.org">contact@victimespesticidesquebec.org</a></p>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="col-xs-12">
+        <h2>Formulaire de membre</h1>
+      </div>
+      <div class="col-xs-12">
+        <p><em>Victimes des pesticides du Québec</em> a besoin de votre appui comme membre individuel.</p>
+        <p>Pour devenir membre, il vous suffit de remplir le formulaire ci-dessous et de faire un don unique de 20 $.</p>
+      </div>
+    </div>
+
+    <form id="form-contact" action="{{ if .Site.Params.ajaxFormspree }}https://formspree.io/{{ .Site.Params.email }}{{ else if .Site.Params.ajaxBasin }}{{ .Site.Params.ajaxBasin }}{{ end }}" method="POST">
+      <div class="row center-xs">
+        <div class="col-xs-12 col-sm-6">
+          <input type="text" name="name" aria-label="name" placeholder="Nom" required>
+        </div>
+        <div class="col-xs-12 col-sm-6">
+          <input type="text" name="firstname" aria-label="firstname" placeholder="Prénom" required>
+        </div>
+        <div class="col-xs-12">
+          <input type="email" id="email" name="email" aria-label="email address" placeholder="{{ i18n "email" }}" required>
+        </div>
+        <div class="col-xs-12 col-sm-6">
+          <input type="text" name="zip" aria-label="zip code" placeholder="Code postal" required>
+        </div>
+        <div class="col-xs-12 col-sm-6">
+          <input type="text" name="phone" aria-label="phone number" placeholder="Téléphone">
+        </div>
+        <div class="col-xs-12">
+          <textarea name="message" aria-label="email message" placeholder="Aidez-nous à mieux vous connaître ..."></textarea>
+        </div>
+        {{ if .Site.Params.ajaxFormspree }}
+        <input type="text" name="_gotcha" style="display:none">
+        <input type="hidden" name="_next" value="/">
+        {{ end }}
+        <div class="col-xs-12 contact-submit">
+          <input id="form-submit" type="submit" value="Envoyer">
+          <span id="form-thankyou" style="visibility:hidden">Merci pour votre soutien.</span>
+        </div>
+      </div>
+    </form>
+
+  </div>
+</section>
+{{ end }}

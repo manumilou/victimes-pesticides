@@ -22,13 +22,17 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
   customCSS = false
 
   # Social media links in footer
-  twitter = "TomaNistor"
-  linkedin = "tomanistor"
-  github = "tomanistor"
+  twitter = ""
+  linkedin = ""
+  github = ""
   facebook = ""
 
+  # Membres organisationnels
+  parkinsonQuebec = "https://parkinsonquebec.ca"
+  autismeMtl = "http://autisme-montreal.com"
+
   # Copyright and theme author credit in footer
-  copyright = false
+  copyright = true
   credit = false
 
   # Cache busting of static resources (additional set up required)
@@ -43,7 +47,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
   # Choose either Formspree contact form or Basin contact form
   ajaxFormspree = false
   ajaxFormspreeGold = false
-  ajaxBasin = "https://usebasin.com/f/0eae7044d4c2"
+  ajaxBasin = "https://usebasin.com/f/2c3ef5b1fb46"
   # Lazy loading with lazysizes
   lazyloading = true
 
