@@ -22,7 +22,7 @@
       </div>
     </div>
 
-    <form id="form-contact" action="{{ if .Site.Params.ajaxFormspree }}https://formspree.io/{{ .Site.Params.email }}{{ else if .Site.Params.ajaxBasin }}{{ .Site.Params.ajaxBasin }}{{ end }}" method="POST">
+    <form id="form-contact" method="POST" data-netlify="true">
       <div class="row center-xs">
         <div class="col-xs-12 col-sm-6">
           <input type="text" name="name" aria-label="name" placeholder="Nom" required>
