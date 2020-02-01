@@ -21,7 +21,8 @@
   {{ if or (.Site.Params.copyright) (.Site.Params.credit) }}
     <div class="col-xs-12">
       {{ if .Site.Params.copyright }}
-      {{ i18n "copyright" }} &copy; {{ now.Format "2006" }} {{ .Site.Title }}.
+      <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
+      <br/><span class="site-title">{{ .Site.Title }}</span>
       {{ end }}
       {{ if .Site.Params.credit }}
         <a href="https://tomanistor.com" target="_blank" rel="nofollow">{{ i18n "themeDevelopedBy" }} Toma Nistor</a>
