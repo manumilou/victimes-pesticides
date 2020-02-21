@@ -1,4 +1,4 @@
-# Actualités
+# Ressources
 
 ## Articles
 
