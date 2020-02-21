@@ -1,4 +1,4 @@
-# À Propos
+# À propos
 
 *Victimes des pesticides du Québec* regroupe les personnes victimes des pesticides afin de défendre leurs droits
 et faire connaître leurs revendications et recommandations pour un Québec en santé sans pesticides.
