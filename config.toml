@@ -60,7 +60,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
   url  = "/#mission"
   weight = 2
 [[menu.main]]
-  name = "Actualités"
+  name = "Ressources"
   url = "/#actualites"
   weight = 3
 [[menu.main]]
