@@ -1,5 +1,5 @@
 title = "Victimes des pesticides du Québec"
-baseURL = "https://hardcore-yalow-5dab64.netlify.com/"
+baseURL = "https://www.victimespesticidesquebec.org/"
 tags = ["portfolio", "web design", "blog"]
 languageCode = "fr-CA"
 config = "config.toml"
