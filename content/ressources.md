@@ -1,4 +1,9 @@
-# Ressources
+---
+title: "Ressources"
+date: 2020-02-11T14:55:38-04:00
+description: "Liens vers articles, documentation et recours collectifs au Québec et au Canada"
+draft: false
+---
 
 ## Articles
 
