@@ -1,6 +1,12 @@
-# Mission
+---
+title: "Mission"
+date: 2020-02-11T14:55:38-04:00
+description: "Victimes des pesticides du Québec est une association à but non lucratif qui vise à informer, orienter, mobiliser, diffuser et promouvoir"
+draft: false
+---
 
 *Victimes des pesticides du Québec* est une association à but non lucratif qui vise à :
+
 * Informer les personnes victimes des pesticides, leur entourage et le grand public.
 * Orienter ces personnes dans leurs démarches de soins et d'indemnisation.
 * Mobiliser toutes les parties prenantes pour prévenir les risques sur la santé associés à l’exposition aux pesticides et promouvoir leur prise en charge.
