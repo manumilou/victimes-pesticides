@@ -1,9 +1,9 @@
---
+---
 title: Création d’une nouvelle organisation pour défendre les droits des personnes exposées aux pesticides
 date: 2020-09-28T14:55:38-04:00
 description: Description
 type: presse
---
+---
 **Montréal, le 28 septembre 2020 –** 
 Aujourd’hui, une nouvelle organisation Victimes des pesticides du Québec (VPQ) est lancée afin de pouvoir défendre au mieux les personnes malades dû à une exposition aux pesticides, mais également afin de sensibiliser la population du Québec aux risques de ces derniers sur la santé. 
 Plus d’un an après les auditions parlementaires sur les pesticides de la Commission de l’agriculture (CAPERN) et devant les impacts sanitaires des pesticides encore trop souvent méconnus ou minimisés, VPQ propose de faire des pesticides un véritable enjeu de santé publique. 
@@ -16,7 +16,7 @@ Pour Romain Rigal, Directeur des programmes et services chez Parkinson Québec :
 
 Les victimes des pesticides ne veulent pas être prises en pitié, mais souhaitent vivement que le gouvernement réagisse et prenne toutes les actions nécessaires pour éviter aux jeunes Québécoises et Québécois le legs de toute maladie. Nous avons, aujourd’hui, le devoir de travailler ensemble pour un Québec en santé sans pesticides.
                                                                               
-                                                                              –30–
+                                                           –30–
 
 Source : Victimes des pesticides Québec www.victimespesticidesquebec.org/
 
