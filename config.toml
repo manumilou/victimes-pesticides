@@ -7,7 +7,6 @@ theme = "osprey"
 canonifyURLS = true
 enableRobotsTXT = true
 googleAnalytics = ""
-disqusShortname = "tomanistor"
 disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use "tag" and "category" taxonomies
 
 [sitemap]
@@ -66,10 +65,10 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
   url  = "/#mission"
   weight = 2
 [[menu.main]]
-  name = "Ressources"
-  url = "/#ressources"
-  weight = 3
-[[menu.main]]
   name = "Contact"
   url  = "/#contact"
+  weight = 3
+[[menu.main]]
+  name = "Presse"
+  url = "/presse"
   weight = 4
