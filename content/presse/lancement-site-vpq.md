@@ -1,7 +1,7 @@
 ---
 title: Création d’une nouvelle organisation pour défendre les droits des personnes exposées aux pesticides
-date: 2020-09-28T14:55:38-04:00
-description: Description
+date: 2020-09-26T14:55:38-04:00
+description: Création d’une nouvelle organisation pour défendre les droits des personnes exposées aux pesticides
 type: presse
 ---
 **Montréal, le 28 septembre 2020 –** 
@@ -16,8 +16,6 @@ Pour Romain Rigal, Directeur des programmes et services chez Parkinson Québec :
 
 Les victimes des pesticides ne veulent pas être prises en pitié, mais souhaitent vivement que le gouvernement réagisse et prenne toutes les actions nécessaires pour éviter aux jeunes Québécoises et Québécois le legs de toute maladie. Nous avons, aujourd’hui, le devoir de travailler ensemble pour un Québec en santé sans pesticides.
                                                                               
-                                                           –30–
-
-Source : Victimes des pesticides Québec www.victimespesticidesquebec.org/
+*Source : Victimes des pesticides Québec www.victimespesticidesquebec.org/*
 
 Avec l’appui de: Autisme Montréal, Parkinson Québec, Myélome Canada, Action cancer du sein du Québec, Safe Food Matters
