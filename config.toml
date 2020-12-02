@@ -65,7 +65,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
   url  = "/#mission"
   weight = 2
 [[menu.main]]
-  name = "Contact"
+  name = "Devenir membre"
   url  = "/#contact"
   weight = 3
 [[menu.main]]
