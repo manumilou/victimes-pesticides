@@ -1,7 +1,9 @@
+---
 title: Un nouveau plan en agriculture à la hauteur des enjeux?
-date: 2020-10-2T14:55:38-04:00
+date: 2020-10-23T14:55:38-04:00
 description: Réaction de VPQ au Plan d'agriculture durable
 type: presse
+---
 
 **Le 23 octobre 2020 - Communiqué de presse**
 Victimes des pesticides du Québec (VPQ) salue les intentions du Plan d'agriculture durable (PAD) 2020-2030, annoncé hier par le ministre de l'Agriculture du Québec, M. André Lamontagne. Toutefois, ce plan possède des lacunes significatives pour soutenir efficacement les productrices et les producteurs québécois pour généraliser les pratiques agroenvironnementales.
