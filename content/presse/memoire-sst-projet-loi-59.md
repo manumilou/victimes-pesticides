@@ -7,7 +7,7 @@ type: presse
 
 **Montréal, le 19 janvier 2021**
 
-Victimes des pesticides du Québec et Parkinson Québec partagent aujourd'hui leur mémoire conjoint devant la Commission de l'économie et du travail dans le cadre des consultations particulières et auditions publiques sur le projet de loi n° 59, Loi modernisant le régime de santé et de sécurité du travail
-Lire le mémoire à ce lien :
-Par ailleurs il est également possible de visionner l'audition à ce lien : http://www.assnat.qc.ca/fr/video-audio/archives-parlementaires/travaux-commissions/AudioVideo-88265.html
+Victimes des pesticides du Québec et Parkinson Québec partagent aujourd'hui leur mémoire conjoint devant la Commission de l'économie et du travail dans le cadre des consultations particulières et auditions publiques sur le projet de loi n° 59, Loi modernisant le régime de santé et de sécurité du travail ([pdf](memoire_projet_loi_59.pdf)).
+
+Par ailleurs, il est également possible de [visionner l'audition](http://www.assnat.qc.ca/fr/video-audio/archives-parlementaires/travaux-commissions/AudioVideo-88265.html).
 
