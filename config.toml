@@ -69,6 +69,6 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
   url  = "/#contact"
   weight = 3
 [[menu.main]]
-  name = "Presse"
+  name = "Actualités"
   url = "/presse"
   weight = 4
