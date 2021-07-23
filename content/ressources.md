@@ -15,7 +15,7 @@ draft: false
 ## Recours collectifs
 
 **Au Québec**
-* [Demande d'action collective Liliane Paquette v. Monsanto Canada ULC and Monsanto Company and Bayer inc.](https://www.registredesactionscollectives.quebec/fr/Consulter/ApercuDemande?NoDossier=200-06-000230-196)
+* [Demande d'action collective Liliane Paquette v. Monsanto Canada ULC and Monsanto Company and Bayer inc.](https://www.registredesactionscollectives.quebec/fr/Consulter/ApercuDemande?NoDossier=200-06-000230-196) Pour suivre l'actualité de cette action collective, [voir le site du cabinet d'avocat](https://dlblegal.ca/fr/roundup/)
 * Article à propos du recours : [Une première action collective déposée au Québec contre le Roundup](https://www.tvanouvelles.ca/2019/05/23/une-action-collective-deposee-au-quebec-contre-le-roundup)
 
 **Au Canada**
