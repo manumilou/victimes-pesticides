@@ -25,5 +25,7 @@ Deux firmes ont lancé des initiatives de recours collectifs:
 * [Monsanto Class Action Lawsuit: Roundup Cancer](https://diamondlaw.ca/class-action-litigation-monsanto-roundup-cancer)
 
 ## Documentation
+* Consulter le [mémoire de Victimes des pesticides du Québec et Parkinson Québec réalisé dans le cadre de la loi modernisant le régime de santé et de sécurité du travail du Québec](https://www.victimespesticidesquebec.org/20210111_Rapport_Pesticides_Maladies_chroniques_Projet_de_Loi_59.pdf) - 2021
+* [Liste des pesticides les plus dangereux (*Highly Hazardous Pesticides*)](pan-international.org/wp-content/uploads/PAN_HHP_List.pdf) réalisé par Pesticide Action Network (en anglais) - 2021
 * [Consulter les vidéos des audiences et les mémoires déposés](http://www.assnat.qc.ca/fr/travaux-parlementaires/commissions/capern/mandats/Mandat-40773/index.html) auprès de la commission parlementaire sur les impacts des pesticides sur la santé publique et l'environnement. Assemblée nationale du Québec - 2019
-* [Rapport d'expertise collective concernant les effets des pesticides sur la santé](https://www.inserm.fr/information-en-sante/expertises-collectives/pesticides-effets-sur-sante). Institut national de la santé et de la recherche médicale (INSERM) France - 2013  
+* [Rapport d'expertise collective concernant les effets des pesticides sur la santé- 2013](https://www.inserm.fr/information-en-sante/expertises-collectives/pesticides-effets-sur-sante)  et la mise à jour réalisé en 2021 [Pesticides et santé – Nouvelles données](https://www.inserm.fr/expertise-collective/pesticides-et-sante-nouvelles-donnees-2021/) Institut national de la santé et de la recherche médicale (INSERM) France   
