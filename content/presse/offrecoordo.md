@@ -9,7 +9,7 @@ type: presse
 
 [Victimes des pesticides du Québec (VPQ)](https://www.victimespesticidesquebec.org) regroupe des personnes victimes des pesticides afin de
 défendre leurs droits et faire connaître leurs revendications et recommandations pour un Québec
-en santé sans pesticides.Organisme à but non lucratif fondé fin 2019, VPQ souhaite recruter une personne pour occuper le rôle de coordination générale. Nous recherchons une personne qui désire concrétiser un engagement vers une transformation sociétale.
+en santé sans pesticides. Organisme à but non lucratif fondé fin 2019, VPQ souhaite recruter une personne pour occuper le rôle de coordination générale. Nous recherchons une personne qui désire concrétiser un engagement vers une transformation sociétale.
 
 IMPORTANT : Les personnes intéressées à postuler devront faire évaluer leur admissibilité à la mesure de subvention salariale auprès d’un agent d’emploi à leur Centre local d’emploi.
 
