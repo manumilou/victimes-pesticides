@@ -5,7 +5,7 @@ description: Offre d'emploi pour la coordination générale de Victimes des pest
 type: presse 
 ---
 
-**Le 30 août 2021 - Offre d'emploi - Coordination générale**
+**Le 30 juillet 2021 - Offre d'emploi - Coordination générale**
 
 [Victimes des pesticides du Québec (VPQ)](https://www.victimespesticidesquebec.org) regroupe des personnes victimes des pesticides afin de
 défendre leurs droits et faire connaître leurs revendications et recommandations pour un Québec
@@ -40,6 +40,6 @@ IMPORTANT : Les personnes intéressées à postuler devront faire évaluer leur 
 
 **Pour poser votre candidature** :
 - Faites parvenir votre CV ainsi qu’une lettre de présentation à l’adresse info@victimespesticidesquebec.org
-- Date limite pour postuler : 22 août 2021 - veuillez prendre note que les candidatures seront analysées en continu.
+- Date limite pour postuler : 29 août 2021 - veuillez prendre note que les candidatures seront analysées en continu.
 
 IMPORTANT: Les personnes intéressées à postuler doivent faire évaluer leur admissibilité à la mesure de subvention salariale auprès d’un agent d’emploi à leur Centre local d’emploi.
