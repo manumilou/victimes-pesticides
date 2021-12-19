@@ -23,9 +23,10 @@ Afin d’être admissibles, les personnes exposées doivent rencontrer les crit�
 
 - Le délai maximal de déclaration entre la date de diagnostic et la date de réclamation est de 6 mois.
 
-| Date de diagnostic                          | Avant le 6 octobre 2022 |       Après le 6 octobre 2022      |
+| Date de diagnostic:                          | Avant le 6 octobre 2021 |       Après le 6 octobre 2021      |
 |---------------------------------------------|:-----------------------:|:----------------------------------:|
-| **Date limite de réclamation à la CNESST**  |       6 avril 2022      | 6 mois après la date de diagnostic |
+| **Date limite de réclamation à la CNESST**:  |       6 avril 2022      | 6 mois après la date de diagnostic |
+
 
 
 Si un membre de votre entourage ou vous même, êtes concernés, Victimes des pesticides du Québec (VPQ) peut aider les démarches de réclamation auprès de la CNESST. N’hésitez pas à diffuser largement cette information, le temps presse.
