@@ -6,7 +6,7 @@ type: presse
 ---
 
 
-## **Lancement d’une tournée québécoise de sensibilisation aux pesticides du 7 au 21 mars 2022** 
+## **Lancement d’une tournée du 7 au 21 mars 2022** 
 
 
 Pour la première fois de son histoire, l’association Victimes des pesticides du Québec annonce une campagne d’envergure pour sensibiliser la population aux risques des pesticides, expliquer la réalité des trop nombreuses victimes des pesticides et susciter un débat constructif pour renforcer la protection des travailleur.euse.s exposé.e.s, notamment en milieu agricole.
@@ -16,9 +16,9 @@ Depuis ses débuts, le travail de l’association, de ses bénévoles et partena
 Cette tournée, planifiée depuis un an, est l’occasion d’aller encore plus loin dans ces nouveaux droits.
 >  « On espère que ces événements enverront un signal fort pour que les maladies causées par les pesticides soient mieux reconnues et les victimes soutenues.» explique Serge Giard, agriculteur retraité et président de Victimes des pesticides du Québec.
 
-Alors que l’actualité ne cesse de rappeler les risques, que ce soit par des données scientifiques, des batailles juridiques, le sujet des pesticides arrive à un point tournant. « De quelle façon souhaitons-nous, comme société, travailler ensemble pour nourrir notre monde? Les gouvernements du Québec et du Canada doivent encore se saisir sérieusement du dossier pour agir. Pour l'instant, il y a encore trop de saupoudrage. » ajoute M. Giard.
+Alors que l’actualité ne cesse de rappeler les risques, que ce soit par des données scientifiques, des batailles juridiques, le sujet des pesticides arrive à un point tournant. *« De quelle façon souhaitons-nous, comme société, travailler ensemble pour nourrir notre monde? Les gouvernements du Québec et du Canada doivent encore se saisir sérieusement du dossier pour agir. Pour l'instant, il y a encore trop de saupoudrage. »* ajoute M. Giard.
 
-{{< figure src="serge_giard.png" title="Serge Giard (Crédit photo : Martin Tremblay, La Presse)" alt="Serge Giard (Crédit photo : Martin Tremblay, La Presse)" title="Serge Giard (Crédit photo : Martin Tremblay, La Presse)">}}
+{{< figure src="serge_giard.png" title="Serge Giard (Crédit photo : Martin Tremblay, La Presse)" >}}
 
 
 ### L'expérience internationale de Paul François comme inspiration
@@ -30,7 +30,7 @@ Dans le cadre de cette campagne seront organisées des conférences et des discu
 
 **Cette tournée est l’occasion d’alerter la population sur les risques courus dans les champs, de proposer de nouvelles voies plus durables et d’aider efficacement les victimes des pesticides.**
 
-{{< figure src="paul_francois.png" title="Paul François - (Crédit photo : LP/Fabien Paillot)" alt="Paul François - (Crédit photo : LP/Fabien Paillot)" title="Paul François - (Crédit photo : LP/Fabien Paillot)" >}}
+{{< figure src="paul_francois.png" title="Paul François - (Crédit photo : LP/Fabien Paillot)" >}}
 
 
 ### Programmation pour le public
@@ -39,13 +39,13 @@ Dans le cadre de cette campagne seront organisées des conférences et des discu
 Date : Le lundi 7 mars 2022, à 19 h 30 
 Lieu : Cinéma Paraloeil - Entrée gratuite
 
-- **À Mont-Joli** 
+- **À Mont-Joli** -
 Date : Le mardi 8 mars 2022, à 13 h 15 
 [Rencontre avec les producteurs agricoles du Bas-Saint-Laurent](https://www.lavantage.qc.ca/article/2022/02/25/l-agriculteur-paul-francois-de-passage-dans-la-region)
 
-- **À Québec**
+- **À Québec** -[Conférence](https://fb.me/e/2qOB81YmP)
 Date : Le lundi 14 mars 2022, à 18 h
-Lieu : Université Laval (salle à confirmer) - Entrée gratuite
+Lieu : Université Laval - Entrée gratuite
 
 - **À Montréal** - [Projection du documentaire La Vie est dans le Pré](https://fb.me/e/1xOi0zVp3) en collaboration avec [SUCO](https://www.suco.org/)
 Date : Le vendredi 18 mars, 2022 à 19 h
