@@ -27,6 +27,8 @@ Dans le cadre de cette campagne seront organisées des conférences et des discu
 
 **Cette tournée est l’occasion d’alerter la population sur les risques courus dans les champs, de proposer de nouvelles voies plus durables et d’aider efficacement les victimes des pesticides.**
 
+![Serge Giard](/static/serge_giard.png)
+
 ### Programmation pour le public
 
 - **À Rimouski** -  [Projection du documentaire La Vie est dans le Pré](www.paraloeil.com/cinema-paraloeil/horaire/989_la-vie-est-dans-le-pre-gratuit)
