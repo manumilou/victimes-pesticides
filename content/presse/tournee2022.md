@@ -18,7 +18,7 @@ Cette tournée, planifiée depuis un an, est l’occasion d’aller encore plus 
 
 Alors que l’actualité ne cesse de rappeler les risques, que ce soit par des données scientifiques, des batailles juridiques, le sujet des pesticides arrive à un point tournant. *« De quelle façon souhaitons-nous, comme société, travailler ensemble pour nourrir notre monde? Les gouvernements du Québec et du Canada doivent encore se saisir sérieusement du dossier pour agir. Pour l'instant, il y a encore trop de saupoudrage. »* ajoute M. Giard.
 
-{{< figure src="serge_giard.png" title="Serge Giard (Crédit photo : Martin Tremblay, La Presse)" >}}
+{{< figure src="serge_giard.png" title="Serge Giard (Crédit photo : Martin Tremblay, La Presse)" alt="Serge Giard (Crédit photo : Martin Tremblay, La Presse)" >}}
 
 
 ### L'expérience internationale de Paul François comme inspiration
@@ -30,7 +30,7 @@ Dans le cadre de cette campagne seront organisées des conférences et des discu
 
 **Cette tournée est l’occasion d’alerter la population sur les risques courus dans les champs, de proposer de nouvelles voies plus durables et d’aider efficacement les victimes des pesticides.**
 
-{{< figure src="paul_francois.png" title="Paul François - (Crédit photo : LP/Fabien Paillot)" >}}
+{{< figure src="paul_francois.png" title="Paul François - (Crédit photo : LP/Fabien Paillot)" alt="Paul François - (Crédit photo : LP/Fabien Paillot)" >}}
 
 
 ### Programmation pour le public
