@@ -18,6 +18,8 @@ Cette tournée, planifiée depuis un an, est l’occasion d’aller encore plus 
 
 Alors que l’actualité ne cesse de rappeler les risques, que ce soit par des données scientifiques, des batailles juridiques, le sujet des pesticides arrive à un point tournant. « De quelle façon souhaitons-nous, comme société, travailler ensemble pour nourrir notre monde? Les gouvernements du Québec et du Canada doivent encore se saisir sérieusement du dossier pour agir. Pour l'instant, il y a encore trop de saupoudrage. » ajoute M. Giard.
 
+![Serge Giard - (Crédit photo : Martin Tremblay, La Presse)](/serge_giard.png "Serge Giard (Crédit photo : Martin Tremblay, La Presse)")
+
 ### L'expérience internationale de Paul François comme inspiration
 Lors de ces activités, Paul François, cet agriculteur français qui a fait condamner Monsanto, sera présent, il racontera son parcours pour sa survie et exposera son engagement à faire connaître la réalité trop méconnue des risques liés à l’utilisation des pesticides en agriculture. Son discours est teinté d’espoir, ayant lui-même réussi, après plusieurs années de réflexion et d’efforts, une transition biologique sur sa ferme.
 
@@ -27,7 +29,7 @@ Dans le cadre de cette campagne seront organisées des conférences et des discu
 
 **Cette tournée est l’occasion d’alerter la population sur les risques courus dans les champs, de proposer de nouvelles voies plus durables et d’aider efficacement les victimes des pesticides.**
 
-![Serge Giard](/static/serge_giard.png)
+![Paul François - (Crédit photo : LP/Fabien Paillot)](/paul_francois.png "Paul François - (Crédit photo : LP/Fabien Paillot)")
 
 ### Programmation pour le public
 
