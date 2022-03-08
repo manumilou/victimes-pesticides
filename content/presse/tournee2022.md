@@ -43,7 +43,7 @@ Lieu : Cinéma Paraloeil - Entrée gratuite
 Date : Le mardi 8 mars 2022, à 13 h 15 
 [Rencontre avec les producteurs agricoles du Bas-Saint-Laurent](https://www.lavantage.qc.ca/article/2022/02/25/l-agriculteur-paul-francois-de-passage-dans-la-region)
 
-- **À Québec** -[Conférence](https://fb.me/e/2qOB81YmP)
+- **À Québec** -[Conférence](https://www.facebook.com/events/1409842152788373/)
 Date : Le lundi 14 mars 2022, à 18 h
 Lieu : Université Laval - Entrée gratuite
 
