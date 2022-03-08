@@ -6,8 +6,8 @@ draft: false
 ---
 
 *Victimes des pesticides du Québec* regroupe les personnes victimes des pesticides afin de défendre leurs droits
-et faire connaître leurs revendications et recommandations pour un Québec en santé sans pesticides.
+et faire connaître leurs revendications et recommandations pour un Québec en santé.
 
 Régulièrement, des preuves scientifiques viennent démontrer le rôle des pesticides dans plusieurs maladies.
 Pourtant, les personnes touchées et leur entourage ne reçoivent que de très peu d’attention de la part
-la communauté médicale ou des institutions de santé publique. De plus, alors que l’utilisation des pesticides n’a jamais été aussi importante que ces dernières années, les gouvernements fédéral et provincial ne semblent toujours pas prêts à prendre des mesures suffisantes pour protéger la population.
+la communauté médicale ou des institutions de santé publique. De plus, alors que l’utilisation des pesticides toxiques n’a jamais été aussi importante que ces dernières années, les gouvernements fédéral et provincial ne semblent toujours pas prêts à prendre des mesures suffisantes pour protéger les personnes exposées.
