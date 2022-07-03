@@ -5,9 +5,9 @@ description: Memoire Arla
 type: presse 
 ---
 
-# Des actions urgentes sont à prendre pour protéger les personnes exposées aux pesticides : Pour un cadre d’homologation sécuritaire basé sur une science indépendante
+## Des actions urgentes sont à prendre pour protéger les personnes exposées aux pesticides 
 
-## Victimes des pesticides du Québec partage ses recommandations pour une révision du cadre d'homologation des pesticides aujourd’hui géré par Santé Canada à travers l’Agence de réglementation de la lutte antiparasitaire (ARLA) [Consulter le mémoire de Victimes des pesticides du Québec](memoire-arla.pdf)
+### Victimes des pesticides du Québec partage ses recommandations pour une révision du cadre d'homologation des pesticides aujourd’hui géré par Santé Canada à travers l’Agence de réglementation de la lutte antiparasitaire (ARLA) [Consulter le mémoire de Victimes des pesticides du Québec](memoire-arla.pdf)
 
 Du 21 mars au 30 juin 2022, Santé Canada a réalisé des *Consultations sur Renforcer davantage la protection de la santé humaine et de l’environnement : examen ciblé de la Loi sur les produits antiparasitaires*. 
 
