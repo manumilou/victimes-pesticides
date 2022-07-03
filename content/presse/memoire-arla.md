@@ -1,13 +1,11 @@
 ---
-title: Des actions urgentes sont à prendre pour réviser le cadre d'autorisation des pesticides au Canada et protéger les personnes exposées aux pesticides 
+title: Des actions urgentes sont à prendre pour réviser le cadre d'autorisation des pesticides au Canada
 date: 2022-07-02T09:55:38-04:00
 description: Memoire ARLA VPQ 
 type: presse 
 ---
 
-## Des actions urgentes sont à prendre pour protéger les personnes exposées aux pesticides 
-
-### Victimes des pesticides du Québec partage ses recommandations pour une révision du cadre d'homologation des pesticides aujourd’hui géré par Santé Canada à travers l’Agence de réglementation de la lutte antiparasitaire (ARLA) [Consulter le mémoire de Victimes des pesticides du Québec](memoire-arla.pdf)
+### Pour que les personnes exposées aux pesticides en soient protégées, Victimes des pesticides du Québec partage ses recommandations pour une révision du cadre d'homologation des pesticides aujourd’hui géré par Santé Canada à travers l’Agence de réglementation de la lutte antiparasitaire (ARLA) [Consulter le mémoire de Victimes des pesticides du Québec](memoire-arla.pdf)
 
 Du 21 mars au 30 juin 2022, Santé Canada a réalisé des *Consultations sur Renforcer davantage la protection de la santé humaine et de l’environnement : examen ciblé de la Loi sur les produits antiparasitaires*. 
 
