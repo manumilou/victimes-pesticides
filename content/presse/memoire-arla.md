@@ -1,7 +1,7 @@
 ---
-title: Memoire Arla
+title: Des actions urgentes sont à prendre pour réviser le cadre d'autorisation des pesticides au Canada et protéger les personnes exposées aux pesticides 
 date: 2022-07-02T09:55:38-04:00
-description: Memoire Arla
+description: Memoire ARLA VPQ 
 type: presse 
 ---
 
