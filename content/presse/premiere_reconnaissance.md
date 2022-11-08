@@ -17,8 +17,7 @@ Pour rappel, en octobre 2021, la maladie de Parkinson, due à l’exposition pro
 
 « Après un combat de plusieurs années, je veux montrer qu’il est possible de faire reconnaître la maladie de Parkinson comme maladie professionnelle. Je pense à la centaine d’autres qui n’ont pas la force de se battre. Maintenant, il y a de l’espoir pour eux et Victimes des pesticides du Québec s’engage à les aider! » - Serge Boily, cofondateur de Victimes des pesticides du Québec                                                                             
 
-Vidéo - témoignage de Serge Boily en mars 2022:
-https://www.youtube.com/watch?v=i3-yXgU0asA 
+[Vidéo - témoignage de Serge Boily en mars 2022](https://www.youtube.com/watch?v=i3-yXgU0asA)
 
 *Source : Victimes des pesticides Québec www.victimespesticidesquebec.org/*
 
