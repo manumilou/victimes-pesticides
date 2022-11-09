@@ -20,3 +20,5 @@ Pour rappel, en octobre 2021, la maladie de Parkinson, due à l’exposition pro
 « C’est une victoire pour Monsieur Boily mais il n’y aurait jamais dû avoir à faire cette bataille, bien que je salue que la maladie de Parkinson soit incluse dans l’annexe de la maladie professionnelle. Malheureusement, vu les critères restrictifs,  d’autres travailleurs devront mettre beaucoup d’efforts pour faire reconnaître leurs réclamations. Avec le dossier de Monsieur Boily, je considère que nous avons gagné une bataille mais nous n’avons pas encore gagné la guerre! » - Me Sophie Mongeon, Desrochers Mongeon Avocats 
 
 [Vidéo - témoignage de Serge Boily en mars 2022](https://www.youtube.com/watch?v=i3-yXgU0asA)
+
+[Consulter le communiqué de presse de Victimes des pesticides du Québec](CP_Serge-Boily.pdf)
