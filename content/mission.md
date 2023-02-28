@@ -17,15 +17,15 @@ Peu importe votre maladie, si elle est en lien avec votre exposition aux pestici
 
 Si vous avez cotisé à la CNESST, vous pouvez constituer un dossier en remplissant un formulaire de réclamation à titre de maladie professionnelle. N’hésitez pas à nous solliciter pour vous aider.
 
-Note: Depuis 2021, la maladie de Parkinson est reconnue comme maladie professionnelle. Le parcours des personnes qui en souffrent et qui ont utilisé des pesticides peut être facilité sous certaines conditions. 
+*Depuis 2021, la maladie de Parkinson est reconnue comme maladie professionnelle. Le parcours des personnes qui en souffrent et qui ont utilisé des pesticides peut être facilité sous certaines conditions. 
 
 * Remplir le formulaire de réclamation: [Réclamation du travailleur](https://www.cnesst.gouv.qc.ca/sites/default/files/documents/reclamation%20du%20travailleur.pdf)
 
 * Remplir l’annexe: [Annexe à la réclamation du travailleur.euse](https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/annexe-reclamation-travailleur-maladie-1)
 
-Prendre connaissance de l’indemnité : [Indemnité pour préjudice corporel](https://www.cnesst.gouv.qc.ca/fr/demarches-formulaires/travailleuses-travailleurs/indemnites-remboursements/indemnites/indemnite-pour-prejudice-corporel)
+* Prendre connaissance de l’indemnité : [Indemnité pour préjudice corporel](https://www.cnesst.gouv.qc.ca/fr/demarches-formulaires/travailleuses-travailleurs/indemnites-remboursements/indemnites/indemnite-pour-prejudice-corporel)
 
-Prendre connaissance des maladies professionnelles : [Maladie professionnelle](https://www.cnesst.gouv.qc.ca/fr/demarches-formulaires/travailleuses-travailleurs/accident-travail-maladie-professionnelle/maladie-professionnelle)
+* Prendre connaissance des maladies professionnelles : [Maladie professionnelle](https://www.cnesst.gouv.qc.ca/fr/demarches-formulaires/travailleuses-travailleurs/accident-travail-maladie-professionnelle/maladie-professionnelle)
 
 ## 2. Consulter un médecin spécialiste
 
