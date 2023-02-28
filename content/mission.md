@@ -42,7 +42,6 @@ Un rendez-vous avec un médecin spécialisé en médecine du travail et formé a
 Deux firmes ont lancé des initiatives de recours collectifs:
 * [Action collective RoundUp®](https://www.merchantlaw.com/class-actions/recent-updates/roundup-class-action-action-collective-roundup)
 * [Monsanto Class Action Lawsuit: Roundup Cancer](https://diamondlaw.ca/class-action-litigation-monsanto-roundup-cancer)
-Action collective déposée contre Syngenta devant la Cour supérieure au nom des Québécois.e.s ayant reçu un diagnostic de la maladie de Parkinson à la suite d'une exposition répétée au pesticide Gramoxone (paraquat)
 
 ## 4. S'impliquer pour en faire parler
 
