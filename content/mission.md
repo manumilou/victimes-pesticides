@@ -6,7 +6,7 @@ draft: false
 ---
 Vous ou un proche avez été exposé.e. aux pesticides? Avez-vous subi un accident ou  une intoxication aiguë ou chronique? Vous pensez qu’il existe un lien entre vos problèmes de santé et les pesticides? 
 
-Nous pouvons vous aider! Avant d’aller plus loin, nous vous encourageons vivement à [nous contacter]([lien vers la page contact](https://www.victimespesticidesquebec.org/#contact)) afin de parler de votre situation. 
+Nous pouvons vous aider! Avant d’aller plus loin, nous vous encourageons vivement à [nous contacter](https://www.victimespesticidesquebec.org/#contact)afin de parler de votre situation. 
 
 
 *Victimes des pesticides du Québec* vient en aide aux personnes concernées par l’exposition aux pesticides. Notre équipe est là pour documenter et comprendre la situation des victimes, les écouter, les aider dans leurs démarches de reconnaissance et d’indemnisation et les rediriger vers les ressources disponibles.
@@ -29,7 +29,7 @@ Si vous avez cotisé à la CNESST, vous pouvez constituer un dossier en rempliss
 
 ## 2. Consulter un médecin spécialiste
 
-Un rendez-vous avec un médecin spécialisé en médecine du travail et formé aux enjeux de santé posés par les pesticides peut être important pour faire reconnaître que votre problème de santé est directement lié aux pesticides. Contactez-nous si vous souhaitez obtenir des coordonnées de médecins.
+Un rendez-vous avec un médecin spécialisé en médecine du travail et formé aux enjeux de santé posés par les pesticides peut être important pour faire reconnaître que votre problème de santé est directement lié aux pesticides. [Contactez-nous](https://www.victimespesticidesquebec.org/#contact) si vous souhaitez obtenir des coordonnées de médecins.
 
 ## 3. Rejoindre un recours collectif
 
