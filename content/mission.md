@@ -13,19 +13,19 @@ Nous pouvons vous aider! Avant d’aller plus loin, nous vous encourageons vivem
 
 ## 1. Réclamation à la CNESST
 
-Peu importe votre maladie, si elle est en lien avec votre exposition aux pesticides vous avez le droit de déposer une réclamation auprès de la Commission des normes, de l'équité, de la santé et de la sécurité du travail (CNESST) si vous y avez cotisé. 
+Peu importe votre maladie, si elle est en lien avec votre exposition aux pesticides vous avez le droit de déposer une réclamation auprès de la **Commission des normes, de l'équité, de la santé et de la sécurité du travail (CNESST)** si vous y avez cotisé. 
 
 Si vous avez cotisé à la CNESST, vous pouvez constituer un dossier en remplissant un formulaire de réclamation à titre de maladie professionnelle. N’hésitez pas à nous solliciter pour vous aider.
 
 Note: Depuis 2021, la maladie de Parkinson est reconnue comme maladie professionnelle. Le parcours des personnes qui en souffrent et qui ont utilisé des pesticides peut être facilité sous certaines conditions. 
 
-* Remplir le formulaire de réclamation: Réclamation du travailleur
+* Remplir le formulaire de réclamation: [Réclamation du travailleur](https://www.cnesst.gouv.qc.ca/sites/default/files/documents/reclamation%20du%20travailleur.pdf)
 
-* Remplir l’annexe: Annexe à la réclamation du travailleur.euse | CNESST
+* Remplir l’annexe: [Annexe à la réclamation du travailleur.euse](https://www.cnesst.gouv.qc.ca/fr/organisation/documentation/formulaires-publications/annexe-reclamation-travailleur-maladie-1)
 
-Prendre connaissance de l’indemnité :  Indemnité pour préjudice corporel
+Prendre connaissance de l’indemnité : [Indemnité pour préjudice corporel](https://www.cnesst.gouv.qc.ca/fr/demarches-formulaires/travailleuses-travailleurs/indemnites-remboursements/indemnites/indemnite-pour-prejudice-corporel)
 
-Prendre connaissance des maladies professionnelles : Maladie professionnelle
+Prendre connaissance des maladies professionnelles : [Maladie professionnelle](https://www.cnesst.gouv.qc.ca/fr/demarches-formulaires/travailleuses-travailleurs/accident-travail-maladie-professionnelle/maladie-professionnelle)
 
 ## 2. Consulter un médecin spécialiste
 
@@ -46,6 +46,6 @@ Action collective déposée contre Syngenta devant la Cour supérieure au nom de
 
 ## 4. S'impliquer pour en faire parler
 
-* Devenir membre mensuel de VPQ (lien membre)
-* Participer à une entrevue avec l’un des membres de VPQ afin de nous aider à référencer les victimes des pesticides au Québec
-* Faire un témoignage publique, par écrit, audio ou vidéo
+* [Devenir membre mensuel de VPQ](https://www.victimespesticidesquebec.org/#contact)
+* Participer à une entrevue avec l’un des membres de VPQ afin de nous aider à référencer les victimes des pesticides au Québec.
+* Faire un témoignage publique, par écrit, audio ou vidéo.
