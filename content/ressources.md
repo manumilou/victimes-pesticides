@@ -13,9 +13,9 @@ draft: false
 * [Non à davantage de pesticides](https://www.ledevoir.com/opinion/libre-opinion/619473/libre-opinion-non-a-davantage-de-pesticides) Le Devoir - 21 juillet 2021
 * [Une réforme urgente de la réglementation s’impose à Santé Canada](https://www.ledevoir.com/opinion/idees/609405/idees-une-reforme-urgente-de-la-reglementation-s-impose-a-sante-canada) Le Devoir - 10 juin 2021
 * À notre connaissance, trois cas de victimes des pesticides ont été reconnus comme maladie professionnelle:
-*   - [Un premier travailleur agricole mexicain fait reconnaître son cancer lié aux pesticides](https://www.ledevoir.com/societe/sante/676284/travail-un-premier-travailleur-agricole-mexicain-fait-reconnaitre-son-cancer-lie-aux-pesticides) Le Devoir - 18 février 2022
-*   - [Un employé du MAPAQ obtient gain de cause pour son parkinson](https://www.ledevoir.com/societe/720027/un-premier-cas-de-parkinson-reconnu-comme-maladie-professionnelle-au-quebec?fbclid=IwAR1DLyeDf8t3B8aAWwJdLwBiI89_qidyFBSkzoGuzF425BVTTouOyStS334) Le Devoir - 8 juin 2022
-*   - [Un malade de parkinson reconnu par la CNESST](https://www.victimespesticidesquebec.org/presse/premiere_reconnaissance/) Victimes des pesticides du Québec - 9 novembre 2022
+[Un premier travailleur agricole mexicain fait reconnaître son cancer lié aux pesticides](https://www.ledevoir.com/societe/sante/676284/travail-un-premier-travailleur-agricole-mexicain-fait-reconnaitre-son-cancer-lie-aux-pesticides) Le Devoir - 18 février 2022
+[Un employé du MAPAQ obtient gain de cause pour son parkinson](https://www.ledevoir.com/societe/720027/un-premier-cas-de-parkinson-reconnu-comme-maladie-professionnelle-au-quebec?fbclid=IwAR1DLyeDf8t3B8aAWwJdLwBiI89_qidyFBSkzoGuzF425BVTTouOyStS334) Le Devoir - 8 juin 2022
+[Un malade de parkinson reconnu par la CNESST](https://www.victimespesticidesquebec.org/presse/premiere_reconnaissance/) Victimes des pesticides du Québec - 9 novembre 2022
 
 
 ## Documentation
