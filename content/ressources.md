@@ -22,7 +22,7 @@ draft: false
 
 
 ## Documentation
-* Consulter le [mémoire de Victimes des pesticides du Québec dans le cadre des consultations de Santé Canada](https://www.victimespesticidesquebec.org/20220630_Memoire_VPQ-Pesticides_Pour-un-cadre-homologation-securitaire.pdf) pour *Renforcer davantage la protection de la santé humaine et de l’environnement : examen ciblé de la Loi sur les produits antiparasitaires Santé Canada* 
+* Consulter le [mémoire de Victimes des pesticides du Québec dans le cadre des consultations de Santé Canada](https://www.victimespesticidesquebec.org/20220630_Memoire_VPQ-Pesticides_Pour-un-cadre-homologation-securitaire.pdf) pour *Renforcer davantage la protection de la santé humaine et de l’environnement : examen ciblé de la Loi sur les produits antiparasitaires Santé Canada* - 2022
 * Consulter le [mémoire de Victimes des pesticides du Québec et Parkinson Québec réalisé dans le cadre de la loi modernisant le régime de santé et de sécurité du travail du Québec](https://www.victimespesticidesquebec.org/20210111_Rapport_Pesticides_Maladies_chroniques_Projet_de_Loi_59.pdf) - 2021
 * [Liste des pesticides les plus dangereux (*Highly Hazardous Pesticides*)](pan-international.org/wp-content/uploads/PAN_HHP_List.pdf) (en anglais) et [explications](https://pan-international.org/wp-content/uploads/PAN_Que_sont_les_HHPs.pdf) réalisé par Pesticide Action Network - 2021
 * [Consulter les vidéos des audiences et les mémoires déposés](http://www.assnat.qc.ca/fr/travaux-parlementaires/commissions/capern/mandats/Mandat-40773/index.html) auprès de la commission parlementaire sur les impacts des pesticides sur la santé publique et l'environnement. Assemblée nationale du Québec - 2019
