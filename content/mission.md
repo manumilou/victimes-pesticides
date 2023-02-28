@@ -17,7 +17,7 @@ Peu importe votre maladie, si elle est en lien avec votre exposition aux pestici
 
 Si vous avez cotisé à la CNESST, vous pouvez constituer un dossier en remplissant un formulaire de réclamation à titre de maladie professionnelle. N’hésitez pas à nous solliciter pour vous aider.
 
-* *Depuis 2021, la maladie de Parkinson est reconnue comme maladie professionnelle. Le parcours des personnes qui en souffrent et qui ont utilisé des pesticides peut être facilité sous certaines conditions.*
+*Depuis 2021, la maladie de Parkinson est reconnue comme maladie professionnelle. Le parcours des personnes qui en souffrent et qui ont utilisé des pesticides peut être facilité sous certaines conditions.*
 
 * Remplir le formulaire de réclamation: [Réclamation du travailleur](https://www.cnesst.gouv.qc.ca/sites/default/files/documents/reclamation%20du%20travailleur.pdf)
 
