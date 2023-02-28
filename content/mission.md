@@ -18,6 +18,7 @@ Peu importe votre maladie, si elle est en lien avec votre exposition aux pestici
 Si vous avez cotisé à la CNESST, vous pouvez constituer un dossier en remplissant un formulaire de réclamation à titre de maladie professionnelle. N’hésitez pas à nous solliciter pour vous aider.
 
 Note: Depuis 2021, la maladie de Parkinson est reconnue comme maladie professionnelle. Le parcours des personnes qui en souffrent et qui ont utilisé des pesticides peut être facilité sous certaines conditions. 
+
 * Remplir le formulaire de réclamation: Réclamation du travailleur
 
 * Remplir l’annexe: Annexe à la réclamation du travailleur.euse | CNESST
@@ -34,12 +35,13 @@ Un rendez-vous avec un médecin spécialisé en médecine du travail et formé a
 Deux recours collectifs sont présentement accessibles :
 
 * Devant la Cour supérieure du Québec
-- Action collective déposée contre Syngenta devant la Cour supérieure au nom des Québécois.e.s ayant reçu un diagnostic de la maladie de Parkinson à la suite d'une exposition répétée au pesticide Gramoxone (paraquat)
-- Demande d'action collective: Liliane Paquette v. Monsanto Canada ULC and Monsanto Company and Bayer inc. L’action est pour le moment suspendue dans l'attente de la décision finale sur la demande d'autorisation du dossier de portée nationale. Pour suivre l'actualité de cette action collective, voir le site du cabinet d'avocat.
+Action collective déposée contre Syngenta devant la Cour supérieure au nom des Québécois.e.s ayant reçu un diagnostic de la maladie de Parkinson à la suite d'une exposition répétée au pesticide Gramoxone (paraquat)
+
+Demande d'action collective: Liliane Paquette v. Monsanto Canada ULC and Monsanto Company and Bayer inc. L’action est pour le moment suspendue dans l'attente de la décision finale sur la demande d'autorisation du dossier de portée nationale. Pour suivre l'actualité de cette action collective, voir le site du cabinet d'avocat.
 
 * Au Canada, deux firmes ont lancé des initiatives de recours collectif :
-- Action collective RoundUp®
-- Monsanto Class Action Lawsuit: Roundup Cancer 
+Action collective RoundUp®
+Monsanto Class Action Lawsuit: Roundup Cancer 
 
 * 4- S’impliquer pour en faire parler
 
