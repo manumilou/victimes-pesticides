@@ -29,7 +29,8 @@ Si vous avez cotisé à la CNESST, vous pouvez constituer un dossier en rempliss
 
 ## 2. Consulter un médecin spécialiste
 
-Un rendez-vous avec un médecin spécialisé en médecine du travail et formé aux enjeux de santé posés par les pesticides peut être important pour faire reconnaître que votre problème de santé est directement lié aux pesticides. [Contactez-nous](https://www.victimespesticidesquebec.org/#contact) si vous souhaitez obtenir des coordonnées de médecins.
+Un rendez-vous avec un médecin spécialisé en médecine du travail et formé aux enjeux de santé posés par les pesticides peut être important pour faire reconnaître que votre problème de santé est directement lié aux pesticides. 
+[Contactez-nous](https://www.victimespesticidesquebec.org/#contact) si vous souhaitez obtenir des coordonnées de médecins.
 
 ## 3. Rejoindre un recours collectif
 
