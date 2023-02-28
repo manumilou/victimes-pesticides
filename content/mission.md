@@ -46,6 +46,6 @@ Action collective déposée contre Syngenta devant la Cour supérieure au nom de
 
 ## 4. S'impliquer pour en faire parler
 
-Devenir membre mensuel de VPQ (lien membre)
-Participer à une entrevue avec l’un des membres de VPQ afin de nous aider à référencer les victimes des pesticides au Québec
-Faire un témoignage publique, par écrit, audio ou vidéo
+* Devenir membre mensuel de VPQ (lien membre)
+* Participer à une entrevue avec l’un des membres de VPQ afin de nous aider à référencer les victimes des pesticides au Québec
+* Faire un témoignage publique, par écrit, audio ou vidéo
