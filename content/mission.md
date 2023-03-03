@@ -32,7 +32,7 @@ Si vous avez cotisé à la CNESST, vous pouvez constituer un dossier en rempliss
 Un rendez-vous avec un médecin spécialisé en médecine du travail et formé aux enjeux de santé posés par les pesticides peut être important pour faire reconnaître que votre problème de santé est directement lié aux pesticides. 
 [Contactez-nous](https://www.victimespesticidesquebec.org/#contact) si vous souhaitez obtenir des coordonnées de médecins.
 
-{{< figure src="Tableau-maladies-pesticides.png" title="Tableau des maladies liées à l'exposition aux pesticides, données tirées du rapport d'expertise de l'Inserm: Pesticides et effets sur la santé - Nouvelles données, 2021." alt="Tableau des maladies liées à l'exposition aux pesticides. Données tirées du rapport d'expertise de l'Inserm : Pesticides et effets sur la santé - Nouvelles données, 2021." >}}
+{{< figure src="Tableau-maladies-pesticides.png" title="Tableau des maladies liées à l'exposition aux pesticides. Données tirées du rapport d'expertise de l'Inserm : Pesticides et effets sur la santé - Nouvelles données, 2021." alt="Tableau des maladies liées à l'exposition aux pesticides. Données tirées du rapport d'expertise de l'Inserm : Pesticides et effets sur la santé - Nouvelles données, 2021." >}}
 
 
 ## 3. Rejoindre un recours collectif
