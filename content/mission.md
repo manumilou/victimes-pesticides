@@ -8,8 +8,9 @@ Vous ou un proche avez été exposé.e. aux pesticides? Avez-vous subi un accide
 
 Nous pouvons vous aider! Avant d’aller plus loin, nous vous encourageons vivement à [nous contacter](https://www.victimespesticidesquebec.org/#contact) afin de parler de votre situation. 
 
+*Victimes des pesticides du Québec* vient en aide aux personnes concernées par l’exposition aux pesticides. Malgré nos capacités limitées, nos bénévoles et notre coordinatrice sont là pour documenter et comprendre la situation des victimes, les écouter, les aider dans leurs démarches de reconnaissance et d’indemnisation et les rediriger vers les ressources disponibles.
 
-*Victimes des pesticides du Québec* vient en aide aux personnes concernées par l’exposition aux pesticides. Notre équipe est là pour documenter et comprendre la situation des victimes, les écouter, les aider dans leurs démarches de reconnaissance et d’indemnisation et les rediriger vers les ressources disponibles.
+{{< figure src="Tableau-maladies-pesticides.png" title="Tableau des maladies liées à l'exposition aux pesticides. Données tirées du rapport d'expertise de l'Inserm : Pesticides et effets sur la santé - Nouvelles données, 2021." alt="Tableau des maladies liées à l'exposition aux pesticides. Données tirées du rapport d'expertise de l'Inserm : Pesticides et effets sur la santé - Nouvelles données, 2021." >}}
 
 ## 1. Réclamation à la CNESST
 
@@ -32,11 +33,9 @@ Si vous avez cotisé à la CNESST, vous pouvez constituer un dossier en rempliss
 Un rendez-vous avec un médecin spécialisé en médecine du travail et formé aux enjeux de santé posés par les pesticides peut être important pour faire reconnaître que votre problème de santé est directement lié aux pesticides. 
 [Contactez-nous](https://www.victimespesticidesquebec.org/#contact) si vous souhaitez obtenir des coordonnées de médecins.
 
-{{< figure src="Tableau-maladies-pesticides.png" title="Tableau des maladies liées à l'exposition aux pesticides. Données tirées du rapport d'expertise de l'Inserm : Pesticides et effets sur la santé - Nouvelles données, 2021." alt="Tableau des maladies liées à l'exposition aux pesticides. Données tirées du rapport d'expertise de l'Inserm : Pesticides et effets sur la santé - Nouvelles données, 2021." >}}
-
-
 ## 3. Rejoindre un recours collectif
 
+Dans certains cas, il est possible de rejoindre un recours collectif. Ces recours ne dépendent pas de *Victimes des pesticides du Québec* mais nous vous invitons à les consulter.
 **Au Québec**
 * [Action collective](https://www.siskinds.com/class-action/gramoxone-paraquat/?lang=fr) déposée contre Syngenta devant la Cour Supérieure au nom des Québécois.e.s ayant reçu un diagnostic de la maladie de Parkinson à la suite d'une exposition répétée au pesticide Gramoxone (paraquat)
 * [Demande d'action collective Liliane Paquette v. Monsanto Canada ULC and Monsanto Company and Bayer inc.](https://www.registredesactionscollectives.quebec/fr/Consulter/ApercuDemande?NoDossier=200-06-000230-196)L’action est pour le moment suspendue dans l’attente de la décision finale sur la demande d’autorisation du dossier de portée nationale. Pour suivre l'actualité de cette action collective, [voir le site du cabinet d'avocat](https://dlblegal.ca/fr/roundup/). 
