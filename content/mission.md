@@ -42,7 +42,8 @@ Dans certains cas, il est possible de rejoindre un recours collectif. Ces recour
 * [Demande d'action collective Liliane Paquette v. Monsanto Canada ULC and Monsanto Company and Bayer inc.](https://www.registredesactionscollectives.quebec/fr/Consulter/ApercuDemande?NoDossier=200-06-000230-196)L’action est pour le moment suspendue dans l’attente de la décision finale sur la demande d’autorisation du dossier de portée nationale. Pour suivre l'actualité de cette action collective, [voir le site du cabinet d'avocat](https://dlblegal.ca/fr/roundup/). 
 Article à propos du recours : [Une première action collective déposée au Québec contre le Roundup](https://www.tvanouvelles.ca/2019/05/23/une-action-collective-deposee-au-quebec-contre-le-roundup)
 
-**Au Canada**<br/>
+**Au Canada** <br/>
+
 Deux firmes ont lancé des initiatives de recours collectifs:
 * [Action collective RoundUp®](https://www.merchantlaw.com/class-actions/recent-updates/roundup-class-action-action-collective-roundup)
 * [Monsanto Class Action Lawsuit: Roundup Cancer](https://diamondlaw.ca/class-action-litigation-monsanto-roundup-cancer)
