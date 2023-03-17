@@ -61,7 +61,7 @@ disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use 
   url  = "/#about"
   weight = 1
 [[menu.main]]
-  name = "Mission"
+  name = "Malade ?"
   url  = "/#mission"
   weight = 2
 [[menu.main]]
