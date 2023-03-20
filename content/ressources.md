@@ -7,6 +7,8 @@ draft: false
 
 ## Articles
 
+* [L'héritage des pesticides](https://ici.radio-canada.ca/tele/la-semaine-verte/site/episodes/694729/maladies-pesticides-parkinson-cancers-agriculteurs) La Semaine verte - 18 mars 2023
+* [Le lourd héritage des pesticides](https://ici.radio-canada.ca/recit-numerique/5433/agriculture-pesticides-ferme-quebec-france) Radio-Canada - 18 mars 2023
 * [Pesticides: «Ils nous disaient que ce n'était pas dangereux»](https://www.lapresse.ca/actualites/201906/14/01-5230277-pesticides-ils-nous-disaient-que-ce-netait-pas-dangereux.php) La Presse - 15 juin 2019
 * [Parkinson : Quand les pesticides rendent malades](https://ici.radio-canada.ca/tele/la-semaine-verte/site/segments/reportage/95966/pesticides-agriculture-maladie-parkinson) La semaine verte, ICI Radio-Canada.ca - 24 novembre 2018
 
