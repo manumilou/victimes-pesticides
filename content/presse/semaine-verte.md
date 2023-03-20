@@ -20,5 +20,6 @@ L'occasion de faire connaître les revendications et les recommandations des vic
 {{< figure src="Serge-semaineverte.jpg" alt="Serge Giard, La semaine verte" >}}
 
 
-##Vous ou un proche souffrez d’une maladie en lien avec des pesticides? Vous avez des questions ou des inquiétudes concernant une exposition aux pesticides? Vous souhaitez apporter votre témoignage?
-N’hésitez pas à nous contacter : info@victimespesticidesquebec.org !
+**Vous ou un proche souffrez d’une maladie en lien avec des pesticides? Vous avez des questions ou des inquiétudes concernant une exposition aux pesticides? Vous souhaitez apporter votre témoignage?
+
+  **N’hésitez pas à [nous contacter](https://www.victimespesticidesquebec.org/#contact): info@victimespesticidesquebec.org !
