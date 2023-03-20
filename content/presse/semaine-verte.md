@@ -1,6 +1,6 @@
 ---
-title: La semaine verte: l'héritage des pesticides
-date: 2023-03-20T12365:38-04:00
+title: 
+date: 
 description: Épisode de la semaine verte 
 type: presse 
 ---
