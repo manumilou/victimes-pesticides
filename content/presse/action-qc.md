@@ -5,7 +5,7 @@ description: Action à Québec
 type: presse 
 ---
 
-**Québec, le 3 avril 2023** -  Victimes des pesticides du Québec et [Vigilance OGM](https://www.vigilanceogm.org/) ont organisé un point de presse devant l’Assemblée nationale du Québec afin de demander au gouvernement Legault d’interdire l’utilisation et la vente des pesticides à base de glyphosate à des fins esthétiques.  Une consultation est actuellement en cours pour augmenter le nombre de pesticides interdits à la vente aux particuliers dans l’Annexe 1 du Code de gestion des pesticides. Malgré une hausse remarquable de ce nombre (de 22 à 61) dans le projet de loi omnibus, une absence se fait remarquer : celle des pesticides à base de glyphosate (Round up). 
+**Québec, le 3 avril 2023** -  Victimes des pesticides du Québec et [Vigilance OGM](https://www.vigilanceogm.org/) ont organisé un point de presse devant l’Assemblée nationale du Québec afin de demander au gouvernement Legault d’interdire l’utilisation et la vente des pesticides à base de glyphosate à des fins esthétiques. Une [consultation du ministère de l'Environnement et de la Lutte contre les changements climatiques est actuellement en cours](https://www.environnement.gouv.qc.ca/ministere/projet-omnibus-2023/index.htm) pour augmenter le nombre de pesticides interdits à la vente aux particuliers dans l’Annexe 1 du [Code de gestion des pesticides](https://www.environnement.gouv.qc.ca/ministere/projet-omnibus-2023/prm-code-gestion-pesticides-va.pdf). Malgré une hausse remarquable de ce nombre (de 22 à 61) dans le projet de loi omnibus, une absence se fait remarquer : celle des pesticides à base de glyphosate (Round up). 
 
 {{< figure src="action-qc.jpeg" alt="Point presse devant l'Assamblée nationale du Québec" >}}
 
