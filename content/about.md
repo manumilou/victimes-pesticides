@@ -18,3 +18,5 @@ la communauté médicale ou des institutions de santé publique. De plus, alors 
 * Mobiliser toutes les parties prenantes pour prévenir les risques sur la santé associés à l’exposition aux pesticides.
 * Diffuser et rendre accessible la recherche scientifique sur les risques liés aux pesticides tout en créant des liens avec les acteurs impliqués dans la recherche.
 * Promouvoir des solutions non toxiques pour remplacer les pesticides.
+
+**[Rapport d'activités 2021 / 2022]()**
