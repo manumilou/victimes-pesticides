@@ -5,7 +5,7 @@ description: EPI-epandages
 type: presse 
 ---
 
-À l’approche des périodes d'épandage de pesticides, nous vous partageons le pense-bête des équipements de protection individuel (EPI) réalisé grâce au travail de [Coordination services-conseils](https://coordination-sc.org/) : 
+À l’approche des périodes d'épandage de pesticides, nous vous partageons le pense-bête des équipements de protection individuel (EPI) réalisé grâce au travail de [Coordination services-conseils](https://coordination-sc.org/) : /*
 [Pense-bête: Zones d’expositions aux pesticides et gradation d’EPI à privilégier](https://coordination-sc.org/wp-content/uploads/epi_pense-bete-v3.pdf)
 [Coffre à outils EPI et pesticides](https://coordination-sc.org/phytoprotection/reseau-dambassadeurs-de-producteurs-de-grains/coffre-a-outils-pesticides-epi/)
 
