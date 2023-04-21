@@ -16,4 +16,4 @@ Cependant, Victimes des pesticides du Québec rappelle que les récentes recherc
 ➡️ Pour en savoir plus, nous vous invitons à écouter ce balado du Monde qui résume bien les enjeux des pesticides pour les milieux agricoles:
 [Écouter le balado: Face aux dangers des pesticides, des agriculteurs démunis](https://cutt.ly/W5iSUq9)
 
-{{< figure src="Serge-camera.jpg" alt="Serge Giard, La semaine verte, tournage" >}}
+{{< figure src="EPI_Bannieres.jpg">}}
