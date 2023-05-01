@@ -20,6 +20,4 @@ Le documentaire Into The Weeds expose aussi toutes les stratégies de la compagn
 
 > « Trop souvent, le gouvernement adopte le même narratif que l'industrie et favorise leurs intérêts commerciaux au détriment des impératifs de la santé publique et de la protection de l'environnement », dénonce M. Rehn. «Si le gouvernement veut être crédible dans le dossier des pesticides, il faut qu’il commence par arrêter de baser son évaluation majoritairement  sur les études de l’industrie qui ne sont ni transparentes ni revues par des pairs. »
 
-- 30 -
-
-{{< figure src="EPI_Bannieres.jpg">}}
+-30-
