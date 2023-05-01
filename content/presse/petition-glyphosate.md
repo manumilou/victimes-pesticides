@@ -1,12 +1,11 @@
 ---
-title: Dépôt de pétition glyphosate: des mesures urgentes demandées par une coalition de Canadien.ne.s
-date: 2023-05-01
-description: petition-glyphosate 
+title: En cas d'utilisation de pesticides, protégez-vous !
+date: 2023-04-21
+description: EPI-epandages 
 type: presse 
 ---
 
 **Communiqué de presse**
-
 Ottawa, le 2 mai 2023 -  Aujourd’hui, Vigilance OGM et Victimes des pesticides du Québec joignent leur voix à celle d’une coalition d’une douzaine de groupes et de plus de 18 000 Canadien.ne.s qui ont signé la pétition appuyée par la députée libérale Jenica Atwin. Cette pétition demande l'interdiction de la vente et de l’utilisation du glyphosate ainsi qu’un plan complet pour réduire l’utilisation globale des pesticides au Canada. Les pesticides à base de  glyphosate sont les plus vendus au Canada. Ces herbicides sont majoritairement utilisés en agriculture,  particulièrement pour les cultures génétiquement modifiées (GM), mais aussi en foresterie et par les particulier.e.s. Globalement, les ventes d'herbicides agricoles au Canada ont augmenté de 234 % entre 1994 et 2020 dont ceux à base de glyphosate dont l’utilisation a triplé entre 2005 et 2011.
 
 > « Le gouvernement peut interdire demain matin l’utilisation des pesticides à base de glyphosate en foresterie à travers le Canada comme c’est déjà le cas au Québec depuis 2001 et aussi pour les particuliers », déclare Thibault Rehn, coordinateur de Vigilance OGM. « Cependant pour le domaine agricole, il est important d’avoir un plan d’action ambitieux concerté avec le milieu pour répondre aux objectifs de la COP 15 ».
