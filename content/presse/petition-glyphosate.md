@@ -1,5 +1,5 @@
 ---
-title: Dépôt de la pétition contre le glyphosate: des mesures urgentes demandées par une coallition de Canadien.ne.s
+title:
 date: 2023-05-01
 description: petition-glyphosate 
 type: presse 
