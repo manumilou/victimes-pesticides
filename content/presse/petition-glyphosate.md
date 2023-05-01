@@ -1,7 +1,7 @@
 ---
-title: En cas d'utilisation de pesticides, protégez-vous !
-date: 2023-04-21
-description: EPI-epandages 
+title: Dépôt de la pétition contre le glyphosate: des mesures urgentes demandées par une coallition de Canadien.ne.s
+date: 2023-05-91
+description: petition-glyphosate 
 type: presse 
 ---
 
