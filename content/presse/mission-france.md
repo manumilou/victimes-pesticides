@@ -16,6 +16,7 @@ Cette mission a été rendue possible **grâce à l’UPA (Union des producteurs
 - Commission des normes, de l'équité, de la santé et de la sécurité du travail (CNESST)
 - Institut de recherche Robert-Sauvé en santé et en sécurité du travail (IRSST)
 {{< figure src="Mission-France-1.jpg">}}
+
 En rencontrant de nombreux acteurs.trices du dossier, nous avons pu constater à quel point **le chemin à parcourir reste grand au Québec** mais, nous sommes déjà bien lancés dans cette direction. 
 Nous espérons désormais que les membres de la délégation travaillent ensemble pour **trouver des solutions afin d’aider les victimes des pesticides au Québec et d’assurer qu’il y en ait le moins possible dans le futur.** 
 
