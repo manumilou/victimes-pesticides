@@ -19,3 +19,5 @@ En rencontrant de nombreux acteurs.trices du dossier, nous avons pu constater à
 Nous espérons désormais que les membres de la délégation travaillent ensemble pour trouver des solutions afin d’aider les victimes des pesticides au Québec et d’assurer qu’il y en ait le moins possible dans le futur. 
 
 Nous tenons à remercier particulièrement notre association soeur en France, [Phyto-Victimes](phyto-victimes.fr/) pour leur aide précieuse et la grande source d’inspiration qu’elle représente pour notre action!
+
+{{< figure src="Mission-France.jpg">}}
