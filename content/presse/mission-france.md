@@ -1,5 +1,5 @@
 ---
-title: Retour sur la mission en France concernant l'indemnisation des victimes des pesticides
+title: Retour sur la mission en France, fonds d'indemnisation des victimes des pesticides
 date: 2023-05-04
 description: missiom-france 
 type: presse 
