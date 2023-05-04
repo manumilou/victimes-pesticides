@@ -17,8 +17,11 @@ Le glyphosate est un véritable enjeu de santé publique. Une méta-analyse publ
 
 > « À travers une telle pétition, nous souhaitons simplement protéger les agriculteurs et agricultrices et les accompagner vers une autre agriculture qui respecte la santé humaine. Aujourd’hui, ce sont les politiques qui doivent faire preuve de courage en mettant en place un plan de sortie des pesticides cancérogènes mutagènes et reprotoxiques et y engager les moyens nécessaires. » souligne Amandine François, coordinatrice de Victimes des pesticides du Québec.
 
+{{< figure src="Groupe-Ottawa.jpg" alt="Photo par @javierlovera / @ringfiveimpact / @intotheweedsdoc" >}}
+
 Le documentaire *Into The Weeds* expose aussi toutes les stratégies de la compagnie Monsanto, rachetée depuis par Bayer, afin de cacher la dangerosité de ces produits ‘’vedette’’ à base de glyphosate, stratégie mise à jour à travers les ‘’*Monsanto papers*’’. Rappelons que les ‘’*Monsanto papers*’’ sont des documents internes de la multinationale Monsanto déclassifiés dans le cadre de procédures judiciaires intentées aux Etats-Unis par des victimes attribuant leur maladie à une exposition au glyphosate, le plus souvent un cancer.
 
 > « Trop souvent, le gouvernement adopte le même narratif que l'industrie et favorise leurs intérêts commerciaux au détriment des impératifs de la santé publique et de la protection de l'environnement », dénonce M. Rehn. «Si le gouvernement veut être crédible dans le dossier des pesticides, il faut qu’il commence par arrêter de baser son évaluation majoritairement  sur les études de l’industrie qui ne sont ni transparentes ni revues par des pairs. »
 
+{{< figure src="Petition-Ottawa.jpg" alt="Photo par @javierlovera / @ringfiveimpact / @intotheweedsdoc" >}}
 -30-
