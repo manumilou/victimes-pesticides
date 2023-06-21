@@ -1,5 +1,5 @@
 ---
-title: DES CHANGEMENTS SUPERICIELS PROPOSÉS PAR SANTÉ-CANADA 
+title: Des changements superficiels proposés par Santé-Canada 
 date: 2023-06-21
 description: Réaction de VPQ aux annonces de Santé-Canada
 type: presse 
