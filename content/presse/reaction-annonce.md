@@ -9,7 +9,7 @@ Le gouvernement du Canada ne semble pas prendre la mesure des enjeux sanitaires 
 
 Si l’annonce de l’interdiction de l’utilisation des pesticides sur les terrains fédéraux va dans la bonne direction, **elle ne change rien au régime d'homologation des pesticides et à l'utilisation toujours accrue de pesticides toxiques pour la santé humaine et pour la biodiversité.** 
 
-{{< figure src="action-qc.jpeg" alt="Point presse devant l'Assamblée nationale du Québec" >}}
+{{< figure src="reaction-arla.jpg" alt="Reaction annonce ARLA" >}}
 
 Concernant la proposition de [l'augmentation des limites de résidus de pesticides autorisées dans les aliments (LMR)](https://ici.radio-canada.ca/nouvelle/1989657/ottawa-pesticides-glyphosate-aliments-lmr), rien n'indique à l’heure actuelle que le processus d'évaluation des risques cumulatifs sur la santé sera évalué différemment que dans la proposition qui avait fait scandale en 2021. Malheureusement, il n'y a **ni analyse sérieuse sur les effets cumulatifs à long terme des pesticides sur la santé humaine ni application claire du principe de précaution.**
 
@@ -30,4 +30,4 @@ En juin 2022, des groupes en santé et en environnement, comme *Victimes des pes
 * la surveillance des effets des pesticides sur la santé et l’environnement
 * l'interdiction des produits importés contenant des résidus de pesticides non approuvés ou dépassant les niveaux autorisés
 
-Force est de constater que malgré les scandales et les recommandations des groupes comme Victimes des pesticides du Québec, le gouvernement et l'ARLA ne prennent pas l'ampleur des changements réglementaires à apporter et les mesures agricoles suffisantes pour amorcer une transition vers une agriculture durable respectueuse de la biodiversité et de la santé humaine.
+Force est de constater que malgré les scandales et les recommandations des groupes comme Victimes des pesticides du Québec, le gouvernement et l'ARLA ne prennent pas l'ampleur des changements réglementaires à apporter et les mesures agricoles suffisantes pour amorcer une **transition vers une agriculture durable respectueuse de la biodiversité et de la santé humaine.**
