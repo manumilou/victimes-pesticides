@@ -12,7 +12,7 @@ Alors qu'il remplissait **[tous les critères](https://www.cnesst.gouv.qc.ca/sit
 
 **[JE SOUTIENS LE COMBAT D'UNE VICTIME DES PESTICIDES](https://www.victimespesticidesquebec.org/#contact)**
 
-{{< figure src="Banniere-AGA.jpg" alt="Assemblée générale annuelle de Victimes des pesticides du Québec" >}}
+{{< figure src="bandeau-JFP-dons.png" alt="Soutenez le combat de Jean-François, victime des pesticides" >}}
 
 Nous nous sommes donnés un objectif : [collecter 1000 $](https://www.victimespesticidesquebec.org/#contact) pour soutenir le combat de Jean-François Perichon.
 
