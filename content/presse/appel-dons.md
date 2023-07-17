@@ -26,3 +26,5 @@ Un don mensuel de 10 $ ou 20 $ peut faire une grande différence dans la poursui
 Nous comptons sur vous pour partager ce message autour de vous.
 
 *Ensemble, nous ferons la différence!*
+
+**[FAIRE UN DON](https://www.victimespesticidesquebec.org/#contact)**
