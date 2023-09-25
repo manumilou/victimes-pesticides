@@ -4,7 +4,7 @@ date: 2023-09-25
 description: Présentation de la deuxième édition de la tournée quécécoise de sensibilisation aux pesticides
 type: presse 
 ---
-*Victimes des pesticides du Québec* organise pour la deuxième édition une tournée pour sensibiliser la population aux risques des pesticides, expliquer la réalité des victimes de pesticides et susciter un débat constructif pour la prise en compte et la prévention des dommages causés par les pesticides.
+*Victimes des pesticides du Québec* organise pour la deuxième édition une tournée pour **sensibiliser la population aux risques des pesticides**, expliquer la réalité des victimes de pesticides et susciter un débat constructif pour la prise en compte et la prévention des dommages causés par les pesticides.
 {{< figure src="Visuel-general_tournée2023.png" alt="Tournée de sensibilisation aux pesticides" >}}
 **Quels objectifs?**
 * sensibiliser aux risques des pesticides aussi bien pour les professions concernées par l’exposition aux pesticides que pour le grand public en s'appuyant sur les données scientifiques les plus récentes; 
