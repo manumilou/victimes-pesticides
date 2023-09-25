@@ -24,44 +24,44 @@ Lieu : [La Cabane en bois rond](https://maps.apple.com/?address=331%20Boul%20de%
 
 * À **Victoriaville**, en collaboration avec le Cégep de Victoriaville
 
-Diffusion de [*L’héritage des pesticides*](https://ici.radio-canada.ca/tele/la-semaine-verte/site/episodes/694729/maladies-pesticides-parkinson-cancers-agriculteurs), épisode de *La semaine verte*, suivie d’une discussion entre les intervenants et le public.
-Intervenants:
-Louis Robert, agronome et lanceur d’alerte 
-Thibault Rehn, coordinateur de [*Vigilance OGM*](https://www.vigilanceogm.org/)
-Pascal Priori, cofondateur et membre de *Victimes des pesticides du Québec*
-Date : Le **jeudi 19 octobre, à 18 h**
+Diffusion de [*L’héritage des pesticides*](https://ici.radio-canada.ca/tele/la-semaine-verte/site/episodes/694729/maladies-pesticides-parkinson-cancers-agriculteurs), épisode de *La semaine verte*, suivie d’une discussion entre les intervenants et le public.<br />
+Intervenants:<br />
+Louis Robert, agronome et lanceur d’alerte <br />
+Thibault Rehn, coordinateur de [*Vigilance OGM*](https://www.vigilanceogm.org/)<br />
+Pascal Priori, cofondateur et membre de *Victimes des pesticides du Québec*<br />
+Date : Le **jeudi 19 octobre, à 18 h**<br />
 Lieu : [Grand auditorium (pavillon central) Cégep de Victoriaville](https://maps.apple.com/?address=475%20Rue%20Notre-Dame%20E,%20Victoriaville%20QC%20G6P%204B3,%20Canada&auid=18015406280182673812&ll=46.059589,-71.943718&lsp=9902&q=C%C3%A9gep%20de%20Victoriaville&_ext=CjEKBAgEEGIKBAgFEAMKBAgGEBkKBAgKEAAKBAhSEAcKBAhVEA0KBAhZEAEKBQikARABEiYp3a8CbQ0HR0AxGm5L7c/8UcA5W4UoyTMIR0BBqOQR0/v7UcBQBA%3D%3D) - Entrée gratuite
 
 * À **Trois-Rivières**, en collaboration avec *Trois-Rivières sans pesticides*
 
-Diffusion de [*L’héritage des pesticides*](https://ici.radio-canada.ca/tele/la-semaine-verte/site/episodes/694729/maladies-pesticides-parkinson-cancers-agriculteurs), épisode de *La semaine verte*, suivie d’une discussion entre les intervenant·es et le public.
-Intervenant·es:
-Louis Robert, agronome et lanceur d’alerte
-Francesca Cicchetti, chercheure et professeure à l’université Laval
-Christiane Bernier, cofondatrice de *Trois-Rivières sans pesticides* et membre de la [*Coalition biodiversité - non au BTI*](https://www.nonaubti.org/)
-Serge Giard, cofondateur et président de *Victimes des pesticides du Québec*
-Date : Le **lundi 23 octobre, à 19 h**
+Diffusion de [*L’héritage des pesticides*](https://ici.radio-canada.ca/tele/la-semaine-verte/site/episodes/694729/maladies-pesticides-parkinson-cancers-agriculteurs), épisode de *La semaine verte*, suivie d’une discussion entre les intervenant·es et le public.<br />
+Intervenant·es:<br />
+Louis Robert, agronome et lanceur d’alerte<br />
+Francesca Cicchetti, chercheure et professeure à l’université Laval<br />
+Christiane Bernier, cofondatrice de *Trois-Rivières sans pesticides* et membre de la [*Coalition biodiversité - non au BTI*](https://www.nonaubti.org/)<br />
+Serge Giard, cofondateur et président de *Victimes des pesticides du Québec*<br />
+Date : Le **lundi 23 octobre, à 19 h**<br />
 Lieu : [1060, rue Saint-François-Xavier](https://maps.apple.com/?address=1060%20Rue%20St-Fran%C3%A7ois-Xavier,%20Trois-Rivi%C3%A8res%20QC%20G9A%201R8,%20Canada&ll=46.351025,-72.545670&q=1060%20Rue%20St-Fran%C3%A7ois-Xavier&_ext=EiYpjGCIMlssR0AxJKAh3lYjUsA5CjaujoEtR0BBYlUUo4EiUsBQBA%3D%3D) - Salle 116 - Entrée gratuite
 
 * À **Montréal**, en collaboration avec le [*Collectif de recherche écosanté sur les pesticides, les politiques et les alternatives*](https://creppa.uqam.ca/) (CREPPA)
 
-Diffusion de [*L’héritage des pesticides*](https://ici.radio-canada.ca/tele/la-semaine-verte/site/episodes/694729/maladies-pesticides-parkinson-cancers-agriculteurs), épisode de *La semaine verte*, suivie d’une discussion entre les intervenant·es et le public.
-Intervenant·es:
-Me Sophie Mongeon, avocate spécialisée dans la défense des accidenté.e.s du travail
-Félix Lapan, organisateur communautaire au sein de l'[*Union des travailleuses et travailleurs accidentés ou malades*](https://uttam.quebec/)(UTTAM). 
-Michel Pilon, directeur du [*Réseau d’aide aux travailleuses et travailleurs migrants agricoles du Québec*](https://rattmaq.org/) (RATTMAQ)
-Louise Vandelac, directrice du *Collectif de recherche écosanté sur les pesticides, les politiques et les alternatives* (CREPPA).
-Date : Le **mardi 24 octobre, à 19 h**
+Diffusion de [*L’héritage des pesticides*](https://ici.radio-canada.ca/tele/la-semaine-verte/site/episodes/694729/maladies-pesticides-parkinson-cancers-agriculteurs), épisode de *La semaine verte*, suivie d’une discussion entre les intervenant·es et le public.<br />
+Intervenant·es:<br />
+Me Sophie Mongeon, avocate spécialisée dans la défense des accidenté.e.s du travail<br />
+Félix Lapan, organisateur communautaire au sein de l'[*Union des travailleuses et travailleurs accidentés ou malades*](https://uttam.quebec/)(UTTAM). <br />
+Michel Pilon, directeur du [*Réseau d’aide aux travailleuses et travailleurs migrants agricoles du Québec*](https://rattmaq.org/) (RATTMAQ)<br />
+Louise Vandelac, directrice du *Collectif de recherche écosanté sur les pesticides, les politiques et les alternatives* (CREPPA).<br />
+Date : Le **mardi 24 octobre, à 19 h**<br />
 Lieu : [Salle pk-1140, Pavillon Kennedy, UQAM](https://maps.apple.com/?address=201%20Av%20du%20Pr%C3%A9sident-Kennedy,%20Montr%C3%A9al%20QC%20H2X%203Y7,%20Canada&auid=17252835727705513947&ll=45.508982,-73.568672&lsp=9902&q=Pavilion%20President-Kennedy%20&_ext=CjEKBAgEEGIKBAgFEAMKBAgGEBkKBAgKEAAKBAhSEAcKBAhVEA8KBAhZEAIKBQikARABEiYpV3TrJpPARkAxUkscIc5kUsA51UkRg7nBRkBBagiKHPxjUsBQBA%3D%3D) - Entrée gratuite
 
 * À **Québec**, en collaboration avec les [*AmiEs de la Terre de Québec*](https://atquebec.org/)
 
-Diffusion de [*L’héritage des pesticides*](https://ici.radio-canada.ca/tele/la-semaine-verte/site/episodes/694729/maladies-pesticides-parkinson-cancers-agriculteurs), épisode de *La semaine verte*, suivie d’une discussion entre les intervenant·es et le public.
-Intervenant·es:
-Francesca Cicchetti, chercheure et professeure à l’université Laval
-Marie-Hélène Bacon,  chercheure et coordinatrice du *Collectif de recherche écosanté sur les pesticides, les politiques et les alternatives* (CREPPA).
-Serge Boily, cofondateur et vice-président de *Victimes des pesticides du Québec*
-Date : Le **mercredi 25 octobre, à  19 h**
+Diffusion de [*L’héritage des pesticides*](https://ici.radio-canada.ca/tele/la-semaine-verte/site/episodes/694729/maladies-pesticides-parkinson-cancers-agriculteurs), épisode de *La semaine verte*, suivie d’une discussion entre les intervenant·es et le public.<br />
+Intervenant·es:<br />
+Francesca Cicchetti, chercheure et professeure à l’université Laval<br />
+Marie-Hélène Bacon,  chercheure et coordinatrice du *Collectif de recherche écosanté sur les pesticides, les politiques et les alternatives* (CREPPA).<br />
+Serge Boily, cofondateur et vice-président de *Victimes des pesticides du Québec*<br />
+Date : Le **mercredi 25 octobre, à  19 h**<br />
 Lieu :  [Centre culture et environnement Frédéric Back (Salle Michel-Jurdant)](https://maps.apple.com/?address=316-870%20Av%20de%20Salaberry,%20Qu%C3%A9bec%20QC%20G1R%202V1,%20Canada&auid=605469734532371615&ll=46.805795,-71.227223&lsp=9902&q=Centre%20Culture%20et%20Environnement%20Fr%C3%A9d%C3%A9ric%20Back&_ext=CjIKBAgEEGIKBAgFEAMKBQgGELABCgQIChAACgQIUhAECgQIVRAACgQIWRAGCgUIpAEQARImKUy4/B2RZkdAMdpVa1f2zlHAOcqNInq3Z0dAQYybnFAfzlHAUAQ%3D) - Entrée gratuite
 
 * À **Coteau-du-Lac**
