@@ -16,12 +16,11 @@ type: presse
 * À **Gatineau**, en collaboration avec *Gatineau sans pesticides*
 
 Diffusion de [*L’héritage des pesticides*](https://ici.radio-canada.ca/tele/la-semaine-verte/site/episodes/694729/maladies-pesticides-parkinson-cancers-agriculteurs), épisode de *La semaine verte* (Radio-Canada, 2023), suivie d’une discussion entre les intervenantes et le public.
-
 Intervenantes:
 Elisabeth McNamara, agricultrice retraitée atteinte de la maladie de Parkinson, membre *de Victimes des pesticides du Québec*
-Monique Bisson, membre de [*Gatineau sans pesticides*](https://www.facebook.com/groups/4933521170071741) et cofondatrice de *Victimes des pesticides du Québec*<br />
-Amandine François, coordinatrice de *Victimes des pesticides du Québec*<br />
-Date : Le **mercredi 18 octobre, à  19 h** <br />
+Monique Bisson, membre de [*Gatineau sans pesticides*](https://www.facebook.com/groups/4933521170071741) et cofondatrice de *Victimes des pesticides du Québec*
+Amandine François, coordinatrice de *Victimes des pesticides du Québec*
+Date : Le **mercredi 18 octobre, à  19 h**
 Lieu : [La Cabane en bois rond](https://maps.apple.com/?address=331%20Boul%20de%20la%20Cit%C3%A9-des-Jeunes,%20Gatineau%20QC%20J8Y%206T3,%20Canada&auid=13426285110608637533&ll=45.457810,-75.767574&lsp=9902&q=Corporation%20des%20A%C3%AEn%C3%A9s%20de%20la%20Cabane%20en%20Bois%20Rond&_ext=CjEKBAgEEGIKBAgFEAMKBAgGEBQKBAgKEAAKBAhSEAEKBAhVEA8KBAhZEAIKBQikARABEiYp/voyUwa6RkAx46VR14jxUsA5fNBYryy7RkBBo7yPA7fwUsBQBA%3D%3D), 331 Boul de la Cité-des-Jeunes - Entrée gratuite
 
 * À **Victoriaville**, en collaboration avec le Cégep de Victoriaville
