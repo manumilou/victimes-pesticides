@@ -14,16 +14,16 @@ type: presse
 
 **Où et quand ?**
 * À Gatineau, en collaboration avec *Gatineau sans pesticides*
-Diffusion de *L’héritage des pesticides*, épisode de *La semaine verte* (Radio-Canada, 2023), suivi d’une discussion entre les intervenantes et le public.
+Diffusion de [*L’héritage des pesticides*](https://ici.radio-canada.ca/tele/la-semaine-verte/site/episodes/694729/maladies-pesticides-parkinson-cancers-agriculteurs), épisode de *La semaine verte* (Radio-Canada, 2023), suivi d’une discussion entre les intervenantes et le public.
 Intervenantes:
-Elisabeth McNamara, agricultrice retraitée, atteinte de la maladie de Parkinson, membre de VPQ
-Monique Bisson, cofondatrice de *Victimes des pesticides du Québec* et de *Gatineau sans pesticides*
+Elisabeth McNamara, agricultrice retraitée atteinte de la maladie de Parkinson, membre *de Victimes des pesticides du Québec*
+Monique Bisson, membre de *Gatineau sans pesticides* et cofondatrice de *Victimes des pesticides du Québec*
 Amandine François, coordinatrice de *Victimes des pesticides du Québec*
 Date : Le **mercredi 18 octobre, à  19 h** 
 Lieu : La Cabane en bois rond, 331 Boul de la Cité-des-Jeunes - Entrée gratuite
 
 * À Victoriaville, en collaboration avec le Cégep de Victoriaville
-Diffusion de *L’héritage des pesticides*, épisode de *La semaine verte*, suivi d’une discussion entre les intervenants et le public.
+Diffusion de [*L’héritage des pesticides*](https://ici.radio-canada.ca/tele/la-semaine-verte/site/episodes/694729/maladies-pesticides-parkinson-cancers-agriculteurs), épisode de *La semaine verte*, suivi d’une discussion entre les intervenants et le public.
 Intervenants:
 Louis Robert, agronome et lanceur d’alerte 
 Thibault Rehn, coordinateur de *Vigilance OGM*
@@ -32,7 +32,7 @@ Date : Le **jeudi 19 octobre, à 18 h**
 Lieu : Grand auditorium (pavillon central) Cégep de Victoriaville - Entrée gratuite
 
 * À Trois-Rivières, en collaboration avec *Trois-Rivières sans pesticides*
-Diffusion de *L’héritage des pesticides*, épisode de *La semaine verte*, suivi d’une discussion entre les intervenant·es et le public.
+Diffusion de [*L’héritage des pesticides*](https://ici.radio-canada.ca/tele/la-semaine-verte/site/episodes/694729/maladies-pesticides-parkinson-cancers-agriculteurs), épisode de *La semaine verte*, suivi d’une discussion entre les intervenant·es et le public.
 Intervenant·es:
 Louis Robert, agronome et lanceur d’alerte
 Francesca Cicchetti, chercheure et professeure à l’université Laval
@@ -42,7 +42,7 @@ Date : Le **lundi 23 octobre, à 19 h**
 Lieu : 1060, rue Saint-François-Xavier - Salle 116 - Entrée gratuite
 
 * À Montréal, en collaboration avec le *Collectif de recherche écosanté sur les pesticides, les politiques et les alternatives* (CREPPA)
-Diffusion de *L’héritage des pesticides*, épisode de *La semaine verte*, suivi d’une discussion entre les intervenant·es et le public.
+Diffusion de [*L’héritage des pesticides*](https://ici.radio-canada.ca/tele/la-semaine-verte/site/episodes/694729/maladies-pesticides-parkinson-cancers-agriculteurs), épisode de *La semaine verte*, suivi d’une discussion entre les intervenant·es et le public.
 Intervenant·es:
 Me Sophie Mongeon, avocate spécialisée dans la défense des accidenté.e.s du travail.
 Félix Lapan, organisateur communautaire au sein de l'*Union des travailleuses et travailleurs accidentés ou malades* (UTTAM). 
@@ -52,7 +52,7 @@ Date : Le **mardi 24 octobre, à 19 h**
 Lieu : Salle pk-1140 à l’UQAM (Pavillon Kennedy) - Entrée gratuite
 
 * À Québec, en collaboration avec les AmiEs de la Terre de Québec
-Diffusion de *L’héritage des pesticides*, épisode de *La semaine verte*, suivi d’une discussion entre les intervenant·es et le public.
+Diffusion de [*L’héritage des pesticides*](https://ici.radio-canada.ca/tele/la-semaine-verte/site/episodes/694729/maladies-pesticides-parkinson-cancers-agriculteurs), épisode de *La semaine verte*, suivi d’une discussion entre les intervenant·es et le public.
 Intervenant·es:
 Francesca Cicchetti, chercheure et professeure à l’université Laval
 Marie-Hélène Bacon,  chercheure et coordinatrice du Collectif de recherche écosanté sur les pesticides, les politiques et les alternatives (CREPPA).
