@@ -13,8 +13,8 @@ type: presse
 * étendre notre portée et atteindre les régions touchées par les risques des pesticides.
 
 ## **Où et quand ?**
-* À **Gatineau**, en collaboration avec *Gatineau sans pesticides*<br />
-Diffusion de [*L’héritage des pesticides*](https://ici.radio-canada.ca/tele/la-semaine-verte/site/episodes/694729/maladies-pesticides-parkinson-cancers-agriculteurs), épisode de *La semaine verte* (Radio-Canada, 2023), suivie d’une discussion entre les intervenantes et le public.<br />
+* À **Gatineau**, en collaboration avec *Gatineau sans pesticides*
+Diffusion de [*L’héritage des pesticides*](https://ici.radio-canada.ca/tele/la-semaine-verte/site/episodes/694729/maladies-pesticides-parkinson-cancers-agriculteurs), épisode de *La semaine verte* (Radio-Canada, 2023), suivie d’une discussion entre les intervenantes et le public.
 Intervenantes:<br />
 Elisabeth McNamara, agricultrice retraitée atteinte de la maladie de Parkinson, membre *de Victimes des pesticides du Québec*<br />
 Monique Bisson, membre de [*Gatineau sans pesticides*](https://www.facebook.com/groups/4933521170071741) et cofondatrice de *Victimes des pesticides du Québec*<br />
