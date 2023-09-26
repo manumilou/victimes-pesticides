@@ -69,6 +69,26 @@ Lieu :  [Centre culture et environnement Frédéric Back (Salle Michel-Jurdant)]
 
 *Ces événements seront accompagnés de rencontres spécifiques avec des professionnel-le-s agricoles, élu-e-s, personnalités politiques, scientifiques, juridiques, syndicales et communautaires.*
 
+- **À Rimouski** -  [Projection du documentaire La Vie est dans le Pré](www.paraloeil.com/cinema-paraloeil/horaire/989_la-vie-est-dans-le-pre-gratuit)
+Date : Le lundi 7 mars 2022, à 19 h 30 
+Lieu : Cinéma Paraloeil - Entrée gratuite
+
+- **À Mont-Joli** -
+Date : Le mardi 8 mars 2022, à 13 h 15 
+[Rencontre avec les producteurs agricoles du Bas-Saint-Laurent](https://www.lavantage.qc.ca/article/2022/02/25/l-agriculteur-paul-francois-de-passage-dans-la-region)
+
+- **À Québec** -[Conférence](https://www.facebook.com/events/1409842152788373/)
+Date : Le lundi 14 mars 2022, à 18 h
+Lieu : Université Laval - Entrée gratuite
+
+- **À Montréal** - [Projection du documentaire La Vie est dans le Pré](https://fb.me/e/1xOi0zVp3) en collaboration avec [SUCO](https://www.suco.org/)
+Date : Le vendredi 18 mars, 2022 à 19 h
+Lieu : Cinéma du Musée - Entrée gratuite 
+
+- **À Montréal** - [Conférence](https://fb.me/e/2qOB81YmP) en collaboration avec le [Collectif de recherche écosanté sur les pesticides, les politiques et les alternatives](https://creppa.uqam.ca/)
+Date : Le lundi 21 mars 2022, à 18 h 30
+Lieu : Salle pk-1140 à l’UQAM - Entrée gratuite
+
 ## **Les enjeux ?**
 
 Malgré la reconnaissance de la maladie de Parkinson comme maladie professionnelle associée aux pesticides par le gouvernement du Québec en 2021 ([Radio-Canada](https://ici.radio-canada.ca/nouvelle/1780853/parkinson-pesticides-maladie-professionnelle-quebec), mars 2021), seulement une vingtaine de cas ont été reconnus par la CNESST d’après les derniers chiffres communiqués ([La Presse](https://www.lapresse.ca/actualites/2022-05-01/lesions-liees-aux-pesticides-ou-a-d-autres-produits-agrochimiques/la-cnesst-a-reconnu-13-cas-depuis-cinq-ans.php), mai 2022). Les critères d’admissibilité sont très restrictifs et ne permettent pas à une grande partie des victimes des pesticides d’être reconnues comme malades professionnels. De plus, il est indispensable que les maladies tels le myélome multiple, le cancer de la prostate, le lymphome non hodgkinien et les troubles cognitifs soient ajoutés à la liste des maladies professionnelles comme c’est le cas dans d’autres pays. 
