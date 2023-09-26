@@ -27,7 +27,7 @@ Diffusion de [*L’héritage des pesticides*](https://ici.radio-canada.ca/tele/l
 - Christiane Bernier, cofondatrice de *Trois-Rivières sans pesticides* et membre de la [*Coalition biodiversité - non au BTI*](https://www.nonaubti.org/)<br />
 - Serge Giard, cofondateur et président de *Victimes des pesticides du Québec*<br />
 
-📌 À **Montréal**, le **mardi 24 octobre, à 19 h**, en collaboration avec le [*Collectif de recherche écosanté sur les pesticides, les politiques et les alternatives*](https://creppa.uqam.ca/) (CREPPA). À la [salle pk-1140, Pavillon Kennedy, UQAM](https://maps.apple.com/?address=201%20Av%20du%20Pr%C3%A9sident-Kennedy,%20Montr%C3%A9al%20QC%20H2X%203Y7,%20Canada&auid=17252835727705513947&ll=45.508982,-73.568672&lsp=9902&q=Pavilion%20President-Kennedy%20&_ext=CjEKBAgEEGIKBAgFEAMKBAgGEBkKBAgKEAAKBAhSEAcKBAhVEA8KBAhZEAIKBQikARABEiYpV3TrJpPARkAxUkscIc5kUsA51UkRg7nBRkBBagiKHPxjUsBQBA%3D%3D) - Entrée gratuite. 
+📌 À **Montréal**, le **mardi 24 octobre, à 18 h 30**, en collaboration avec le [*Collectif de recherche écosanté sur les pesticides, les politiques et les alternatives*](https://creppa.uqam.ca/) (CREPPA). À la [salle pk-1140, Pavillon Kennedy, UQAM](https://maps.apple.com/?address=201%20Av%20du%20Pr%C3%A9sident-Kennedy,%20Montr%C3%A9al%20QC%20H2X%203Y7,%20Canada&auid=17252835727705513947&ll=45.508982,-73.568672&lsp=9902&q=Pavilion%20President-Kennedy%20&_ext=CjEKBAgEEGIKBAgFEAMKBAgGEBkKBAgKEAAKBAhSEAcKBAhVEA8KBAhZEAIKBQikARABEiYpV3TrJpPARkAxUkscIc5kUsA51UkRg7nBRkBBagiKHPxjUsBQBA%3D%3D) - Entrée gratuite. 
 Diffusion de [*L’héritage des pesticides*](https://ici.radio-canada.ca/tele/la-semaine-verte/site/episodes/694729/maladies-pesticides-parkinson-cancers-agriculteurs), épisode de *La semaine verte*, suivie d’une discussion entre le public et les intervenant·es suivant·es:
 - Me Sophie Mongeon, avocate spécialisée dans la défense des accidenté.e.s du travail<br />
 - Félix Lapan, organisateur communautaire au sein de l'[*Union des travailleuses et travailleurs accidentés ou malades*](https://uttam.quebec/)(UTTAM). <br />
@@ -49,6 +49,7 @@ Diffusion de [*L’héritage des pesticides*](https://ici.radio-canada.ca/tele/l
 * présenter les témoignages de personnes atteintes de maladies liées à l’exposition aux pesticides et favoriser l’échanges entre les victimes et les expert·es;
 * discuter des démarches de reconnaissance en maladie professionnelle pour les personnes malades et identifier ensemble différentes solutions possibles;
 * étendre notre portée et atteindre les régions touchées par les risques des pesticides.
+
 {{< figure src="Serge-camera.jpg" alt="Serge Giard, La semaine verte, tournage" >}}
 ## **Les enjeux ?**
 
@@ -59,6 +60,7 @@ Depuis 2022, *Victimes des pesticides du Québec* participe activement aux consu
 
 
 Afin de faire entendre la voix des victimes et avoir du poids dans les futures décisions gouvernementales, nous devons créer une communauté solidaire à travers le Québec. Nous sommes conscients de l'importance de représenter et de **soutenir toutes les victimes**, peu importe où elles se trouvent.
+
 **Cette tournée est possible grâce au soutien d’un large réseau de partenaires :**
 
 Membres de Victimes Pesticides Québec: 
@@ -80,4 +82,4 @@ Partenaires de la tournée:
 - Trois-Rivières sans pesticides
 - [Gatineau sans pesticides](https://www.facebook.com/groups/4933521170071741)
 
-On vous attend nombreuses et nombreux !
+N'hésitez pas à nous contacter si vous avez besoin de plus d'informations sur la tenue des événements. On vous attend nombreuses et nombreux !
