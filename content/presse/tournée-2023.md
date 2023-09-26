@@ -76,7 +76,8 @@ Depuis 2022, *Victimes des pesticides du Québec* participe activement aux consu
 Afin de faire entendre la voix des victimes et avoir du poids dans les futures décisions gouvernementales, nous devons créer une communauté solidaire à travers le Québec. Nous sommes conscients de l'importance de représenter et de **soutenir toutes les victimes**, peu importe où elles se trouvent.
 {{< figure src="Serge-camera.jpg" alt="Serge Giard, La semaine verte, tournage" >}}
 ## **Cette tournée est possible grâce au soutien d’un large réseau de partenaires :**
-Membres de Victimes Pesticides Québec: - [Action Cancer du Sein](https://acsqc.ca/fr)
+Membres de Victimes Pesticides Québec: 
+- [Action Cancer du Sein](https://acsqc.ca/fr)
 - [Autisme Montréal](https://autisme-montreal.com/)
 - [CATTARA](https://cattara.org/)
 - [Myélome Canada](https://myelomacanada.ca/fr)
@@ -84,11 +85,13 @@ Membres de Victimes Pesticides Québec: - [Action Cancer du Sein](https://acsqc.
 - [Phyto Victimes](https://www.phyto-victimes.fr)
 - [Société de leucémie et de lymphome du Canada](https://www.cancersdusang.ca/)
 - [Vigilance OGM](https://www.vigilanceogm.org/)
-
-Partenaires de la tournée: - [Desjardins](https://caissesolidaire.coop/)
+  Partenaires de la tournée: 
+- [Desjardins](https://caissesolidaire.coop/)
 - [Lush](https://weare.lush.com/lush-life/our-company/we-are-campaigns/)
 - [SUCO](https://www.suco.org/) (Solidarité Union Coopération) via le fonds Affaires mondiales Canada
 - [CREPPA](https://creppa.uqam.ca/) (Collectif de recherche écosanté sur les pesticides, les politiques et les alternatives)
 - [Les AmiEs de la Terre de Québec](https://atquebec.org/)
 - Trois-Rivières sans pesticides
 - [Gatineau sans pesticides](https://www.facebook.com/groups/4933521170071741)
+
+On vous attend nombreuses et nombreux !
