@@ -6,11 +6,6 @@ type: presse
 ---
 *Victimes des pesticides du Québec* organise pour la deuxième édition une tournée pour **sensibiliser la population aux risques des pesticides**, expliquer la réalité des victimes de pesticides et susciter un débat constructif pour la prise en compte et la prévention des dommages causés par les pesticides.
 {{< figure src="Visuel-general_tournée2023.png" alt="Tournée de sensibilisation aux pesticides" >}}
-## **Quels objectifs?**
-* sensibiliser aux risques des pesticides aussi bien pour les professions concernées par l’exposition aux pesticides que pour le grand public en s'appuyant sur les données scientifiques les plus récentes; 
-* présenter les témoignages de personnes atteintes de maladies liées à l’exposition aux pesticides et favoriser l’échanges entre les victimes et les expert·es;
-* discuter des démarches de reconnaissance en maladie professionnelle pour les personnes malades et identifier ensemble différentes solutions possibles;
-* étendre notre portée et atteindre les régions touchées par les risques des pesticides.
 
 ## **Où et quand ?**
 📌 À **Gatineau**, le **mercredi 18 octobre, à  19 h**, en collaboration avec [*Gatineau sans pesticides*](https://www.facebook.com/groups/4933521170071741). À [La Cabane en bois rond](https://maps.apple.com/?address=331%20Boul%20de%20la%20Cit%C3%A9-des-Jeunes,%20Gatineau%20QC%20J8Y%206T3,%20Canada&auid=13426285110608637533&ll=45.457810,-75.767574&lsp=9902&q=Corporation%20des%20A%C3%AEn%C3%A9s%20de%20la%20Cabane%20en%20Bois%20Rond&_ext=CjEKBAgEEGIKBAgFEAMKBAgGEBQKBAgKEAAKBAhSEAEKBAhVEA8KBAhZEAIKBQikARABEiYp/voyUwa6RkAx46VR14jxUsA5fNBYryy7RkBBo7yPA7fwUsBQBA%3D%3D), 331 Boul de la Cité-des-Jeunes - Entrée gratuite.
@@ -49,6 +44,12 @@ Diffusion de [*L’héritage des pesticides*](https://ici.radio-canada.ca/tele/l
 
 *Ces événements seront accompagnés de rencontres spécifiques avec des professionnel-le-s agricoles, élu-e-s, personnalités politiques, scientifiques, juridiques, syndicales et communautaires.*
 
+## **Quels objectifs?**
+* sensibiliser aux risques des pesticides aussi bien pour les professions concernées par l’exposition aux pesticides que pour le grand public en s'appuyant sur les données scientifiques les plus récentes; 
+* présenter les témoignages de personnes atteintes de maladies liées à l’exposition aux pesticides et favoriser l’échanges entre les victimes et les expert·es;
+* discuter des démarches de reconnaissance en maladie professionnelle pour les personnes malades et identifier ensemble différentes solutions possibles;
+* étendre notre portée et atteindre les régions touchées par les risques des pesticides.
+{{< figure src="Serge-camera.jpg" alt="Serge Giard, La semaine verte, tournage" >}}
 ## **Les enjeux ?**
 
 Malgré la reconnaissance de la maladie de Parkinson comme maladie professionnelle associée aux pesticides par le gouvernement du Québec en 2021 ([Radio-Canada](https://ici.radio-canada.ca/nouvelle/1780853/parkinson-pesticides-maladie-professionnelle-quebec), mars 2021), **seulement une vingtaine de cas ont été reconnus par la CNESST d’après les derniers chiffres communiqués** ([La Presse](https://www.lapresse.ca/actualites/2022-05-01/lesions-liees-aux-pesticides-ou-a-d-autres-produits-agrochimiques/la-cnesst-a-reconnu-13-cas-depuis-cinq-ans.php), mai 2022). Les critères d’admissibilité sont très restrictifs et ne permettent pas à une grande partie des victimes des pesticides d’être reconnues comme malades professionnels. De plus, il est indispensable que les maladies tels **le myélome multiple, le cancer de la prostate, le lymphome non hodgkinien et les troubles cognitifs soient ajoutés à la liste des maladies professionnelles** comme c’est le cas dans d’autres pays. 
@@ -58,7 +59,6 @@ Depuis 2022, *Victimes des pesticides du Québec* participe activement aux consu
 
 
 Afin de faire entendre la voix des victimes et avoir du poids dans les futures décisions gouvernementales, nous devons créer une communauté solidaire à travers le Québec. Nous sommes conscients de l'importance de représenter et de **soutenir toutes les victimes**, peu importe où elles se trouvent.
-{{< figure src="Serge-camera.jpg" alt="Serge Giard, La semaine verte, tournage" >}}
 **Cette tournée est possible grâce au soutien d’un large réseau de partenaires :**
 
 Membres de Victimes Pesticides Québec: 
