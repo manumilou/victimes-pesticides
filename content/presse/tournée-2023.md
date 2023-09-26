@@ -67,17 +67,16 @@ Lieu :  [Centre culture et environnement Frédéric Back (Salle Michel-Jurdant)]
 
 ## **Les enjeux ?**
 
-Malgré la reconnaissance de la maladie de Parkinson comme maladie professionnelle associée aux pesticides par le gouvernement du Québec en 2021 ([Radio-Canada](https://ici.radio-canada.ca/nouvelle/1780853/parkinson-pesticides-maladie-professionnelle-quebec), mars 2021), seulement une vingtaine de cas ont été reconnus par la CNESST d’après les derniers chiffres communiqués ([La Presse](https://www.lapresse.ca/actualites/2022-05-01/lesions-liees-aux-pesticides-ou-a-d-autres-produits-agrochimiques/la-cnesst-a-reconnu-13-cas-depuis-cinq-ans.php), mai 2022). Les critères d’admissibilité sont très restrictifs et ne permettent pas à une grande partie des victimes des pesticides d’être reconnues comme malades professionnels. De plus, il est indispensable que les maladies tels le myélome multiple, le cancer de la prostate, le lymphome non hodgkinien et les troubles cognitifs soient ajoutés à la liste des maladies professionnelles comme c’est le cas dans d’autres pays. 
+Malgré la reconnaissance de la maladie de Parkinson comme maladie professionnelle associée aux pesticides par le gouvernement du Québec en 2021 ([Radio-Canada](https://ici.radio-canada.ca/nouvelle/1780853/parkinson-pesticides-maladie-professionnelle-quebec), mars 2021), **seulement une vingtaine de cas ont été reconnus par la CNESST d’après les derniers chiffres communiqués** ([La Presse](https://www.lapresse.ca/actualites/2022-05-01/lesions-liees-aux-pesticides-ou-a-d-autres-produits-agrochimiques/la-cnesst-a-reconnu-13-cas-depuis-cinq-ans.php), mai 2022). Les critères d’admissibilité sont très restrictifs et ne permettent pas à une grande partie des victimes des pesticides d’être reconnues comme malades professionnels. De plus, il est indispensable que les maladies tels **le myélome multiple, le cancer de la prostate, le lymphome non hodgkinien et les troubles cognitifs soient ajoutés à la liste des maladies professionnelles** comme c’est le cas dans d’autres pays. 
 
 
-Depuis 2022, Victimes des pesticides du Québec participe activement aux consultations de Santé Canada pour réviser le cadre d'autorisation des pesticides au Canada. Force est de constater que malgré nos efforts et ceux d’organisations citoyennes, les annonces de Santé Canada sont loin de garantir la protection de la santé des agricultrices et agriculteurs, des professionnelles et professionnels exposés aux pesticides et de la population générale. 
+Depuis 2022, *Victimes des pesticides du Québec* participe activement aux consultations de Santé Canada pour réviser le cadre d'autorisation des pesticides au Canada. Force est de constater que malgré nos efforts et ceux d’organisations citoyennes, les annonces de Santé Canada sont **loin de garantir la protection de la santé des agricultrices et agriculteurs, des professionnelles et professionnels exposés aux pesticides et de la population générale**. 
 
 
-Afin de faire entendre la voix des victimes et avoir du poids dans les futures décisions gouvernementales, nous devons créer une communauté solidaire à travers le Québec. Nous sommes conscients de l'importance de représenter et de soutenir toutes les victimes, peu importe où elles se trouvent.
-
+Afin de faire entendre la voix des victimes et avoir du poids dans les futures décisions gouvernementales, nous devons créer une communauté solidaire à travers le Québec. Nous sommes conscients de l'importance de représenter et de **soutenir toutes les victimes**, peu importe où elles se trouvent.
+{{< figure src="Visuel-general_tournée2023.png" alt="Tournée de sensibilisation aux pesticides" >}}
 ## **Cette tournée est possible grâce au soutien d’un large réseau de partenaires :**
-Membres de Victimes Pesticides Québec: 
-- [Action Cancer du Sein](https://acsqc.ca/fr)
+Membres de Victimes Pesticides Québec: - [Action Cancer du Sein](https://acsqc.ca/fr)
 - [Autisme Montréal](https://autisme-montreal.com/)
 - [CATTARA](https://cattara.org/)
 - [Myélome Canada](https://myelomacanada.ca/fr)
@@ -86,8 +85,7 @@ Membres de Victimes Pesticides Québec:
 - [Société de leucémie et de lymphome du Canada](https://www.cancersdusang.ca/)
 - [Vigilance OGM](https://www.vigilanceogm.org/)
 
-Partenaires de la tournée: 
-- [Desjardins](https://caissesolidaire.coop/)
+Partenaires de la tournée: - [Desjardins](https://caissesolidaire.coop/)
 - [Lush](https://weare.lush.com/lush-life/our-company/we-are-campaigns/)
 - [SUCO](https://www.suco.org/) (Solidarité Union Coopération) via le fonds Affaires mondiales Canada
 - [CREPPA](https://creppa.uqam.ca/) (Collectif de recherche écosanté sur les pesticides, les politiques et les alternatives)
