@@ -74,7 +74,7 @@ Depuis 2022, *Victimes des pesticides du Québec* participe activement aux consu
 
 
 Afin de faire entendre la voix des victimes et avoir du poids dans les futures décisions gouvernementales, nous devons créer une communauté solidaire à travers le Québec. Nous sommes conscients de l'importance de représenter et de **soutenir toutes les victimes**, peu importe où elles se trouvent.
-{{< figure src="Visuel-general_tournée2023.png" alt="Tournée de sensibilisation aux pesticides" >}}
+{{< figure src="Serge-camera.jpg" alt="Serge Giard, La semaine verte, tournage" >}}
 ## **Cette tournée est possible grâce au soutien d’un large réseau de partenaires :**
 Membres de Victimes Pesticides Québec: - [Action Cancer du Sein](https://acsqc.ca/fr)
 - [Autisme Montréal](https://autisme-montreal.com/)
