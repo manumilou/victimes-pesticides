@@ -18,6 +18,7 @@ Diffusion de [*L’héritage des pesticides*](https://ici.radio-canada.ca/tele/l
 - Elisabeth McNamara, agricultrice retraitée atteinte de la maladie de Parkinson, membre *de Victimes des pesticides du Québec*
 - Monique Bisson, membre de [*Gatineau sans pesticides*](https://www.facebook.com/groups/4933521170071741) et cofondatrice de *Victimes des pesticides du Québec*
 - Amandine François, coordinatrice de *Victimes des pesticides du Québec*
+
 Date : Le **mercredi 18 octobre, à  19 h**
 Lieu : [La Cabane en bois rond](https://maps.apple.com/?address=331%20Boul%20de%20la%20Cit%C3%A9-des-Jeunes,%20Gatineau%20QC%20J8Y%206T3,%20Canada&auid=13426285110608637533&ll=45.457810,-75.767574&lsp=9902&q=Corporation%20des%20A%C3%AEn%C3%A9s%20de%20la%20Cabane%20en%20Bois%20Rond&_ext=CjEKBAgEEGIKBAgFEAMKBAgGEBQKBAgKEAAKBAhSEAEKBAhVEA8KBAhZEAIKBQikARABEiYp/voyUwa6RkAx46VR14jxUsA5fNBYryy7RkBBo7yPA7fwUsBQBA%3D%3D), 331 Boul de la Cité-des-Jeunes - Entrée gratuite
 
@@ -26,6 +27,7 @@ Diffusion de [*L’héritage des pesticides*](https://ici.radio-canada.ca/tele/l
 - Louis Robert, agronome et lanceur d’alerte <br />
 - Thibault Rehn, coordinateur de [*Vigilance OGM*](https://www.vigilanceogm.org/)<br />
 - Pascal Priori, cofondateur et membre de *Victimes des pesticides du Québec*<br />
+
 Date : Le **jeudi 19 octobre, à 18 h**<br />
 Lieu : [Grand auditorium (pavillon central) Cégep de Victoriaville](https://maps.apple.com/?address=475%20Rue%20Notre-Dame%20E,%20Victoriaville%20QC%20G6P%204B3,%20Canada&auid=18015406280182673812&ll=46.059589,-71.943718&lsp=9902&q=C%C3%A9gep%20de%20Victoriaville&_ext=CjEKBAgEEGIKBAgFEAMKBAgGEBkKBAgKEAAKBAhSEAcKBAhVEA0KBAhZEAEKBQikARABEiYp3a8CbQ0HR0AxGm5L7c/8UcA5W4UoyTMIR0BBqOQR0/v7UcBQBA%3D%3D) - Entrée gratuite
 
@@ -35,6 +37,7 @@ Diffusion de [*L’héritage des pesticides*](https://ici.radio-canada.ca/tele/l
 - Francesca Cicchetti, chercheure et professeure à l’université Laval<br />
 - Christiane Bernier, cofondatrice de *Trois-Rivières sans pesticides* et membre de la [*Coalition biodiversité - non au BTI*](https://www.nonaubti.org/)<br />
 - Serge Giard, cofondateur et président de *Victimes des pesticides du Québec*<br />
+
 Date : Le **lundi 23 octobre, à 19 h**<br />
 Lieu : [1060, rue Saint-François-Xavier](https://maps.apple.com/?address=1060%20Rue%20St-Fran%C3%A7ois-Xavier,%20Trois-Rivi%C3%A8res%20QC%20G9A%201R8,%20Canada&ll=46.351025,-72.545670&q=1060%20Rue%20St-Fran%C3%A7ois-Xavier&_ext=EiYpjGCIMlssR0AxJKAh3lYjUsA5CjaujoEtR0BBYlUUo4EiUsBQBA%3D%3D) - Salle 116 - Entrée gratuite
 
@@ -54,6 +57,7 @@ Diffusion de [*L’héritage des pesticides*](https://ici.radio-canada.ca/tele/l
 - Francesca Cicchetti, chercheure et professeure à l’université Laval<br />
 - Marie-Hélène Bacon,  chercheure et coordinatrice du *Collectif de recherche écosanté sur les pesticides, les politiques et les alternatives* (CREPPA).<br />
 - Serge Boily, cofondateur et vice-président de *Victimes des pesticides du Québec*
+
 Date : Le **mercredi 25 octobre, à  19 h**<br />
 Lieu :  [Centre culture et environnement Frédéric Back (Salle Michel-Jurdant)](https://maps.apple.com/?address=316-870%20Av%20de%20Salaberry,%20Qu%C3%A9bec%20QC%20G1R%202V1,%20Canada&auid=605469734532371615&ll=46.805795,-71.227223&lsp=9902&q=Centre%20Culture%20et%20Environnement%20Fr%C3%A9d%C3%A9ric%20Back&_ext=CjIKBAgEEGIKBAgFEAMKBQgGELABCgQIChAACgQIUhAECgQIVRAACgQIWRAGCgUIpAEQARImKUy4/B2RZkdAMdpVa1f2zlHAOcqNInq3Z0dAQYybnFAfzlHAUAQ%3D) - Entrée gratuite
 
