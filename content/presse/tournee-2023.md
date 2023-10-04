@@ -8,6 +8,14 @@ type: presse
 {{< figure src="Bannière-générale.png" alt="Tournée de sensibilisation aux pesticides" >}}
 
 ## **Où et quand ?**
+
+📌 [À **Coteau-du-Lac**, **lundi 16 octobre à 18 h 30**]( https://fb.me/e/7bQrwTRSw) au [Pavillon Wilson](https://maps.apple.com/?address=4B%20Principale,%20Coteau-du-Lac%20QC%20J0P%201B0,%20Canada&auid=10850883652564049377&ll=45.293153,-74.175583&lsp=9902&q=Pavillon%20Wilson&_ext=CjIKBAgEEGIKBAgFEAMKBQgGEJ8DCgQIChAACgQIUhADCgQIVRAOCgQIWRABCgUIpAEQARImKTizAtnypEZAMU/6hl2li1LAObaIKDUZpkZAQVWi8iXUilLAUAQ%3D). - Entrée gratuite.
+Diffusion de [*L’héritage des pesticides*](https://ici.radio-canada.ca/tele/la-semaine-verte/site/episodes/694729/maladies-pesticides-parkinson-cancers-agriculteurs), épisode de *La semaine verte* (Radio-Canada, 2023), suivie d’un panel de discussion avec nos invitées suivantes: 
+- Christine Dandurand, fille d'agriculteur et membre de *Mères au Front Vaudreuil-Soulanges*;
+- Serge Boily, cofondateur et vice-président de *Victimes des pesticides du Québec*;
+- Amandine François, coordinatrice de *Victimes des pesticides du Québec*.
+
+
 📌 [À **Gatineau**, le **mercredi 18 octobre, à  19 h**](https://www.facebook.com/events/1523182585091921/?acontext=%7B%22event_action_history%22%3A[%7B%22surface%22%3A%22home%22%7D%2C%7B%22mechanism%22%3A%22your_upcoming_events_unit%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D), en collaboration avec [*Gatineau sans pesticides*](https://www.facebook.com/groups/4933521170071741). À [La Cabane en bois rond](https://maps.apple.com/?address=331%20Boul%20de%20la%20Cit%C3%A9-des-Jeunes,%20Gatineau%20QC%20J8Y%206T3,%20Canada&auid=13426285110608637533&ll=45.457810,-75.767574&lsp=9902&q=Corporation%20des%20A%C3%AEn%C3%A9s%20de%20la%20Cabane%20en%20Bois%20Rond&_ext=CjEKBAgEEGIKBAgFEAMKBAgGEBQKBAgKEAAKBAhSEAEKBAhVEA8KBAhZEAIKBQikARABEiYp/voyUwa6RkAx46VR14jxUsA5fNBYryy7RkBBo7yPA7fwUsBQBA%3D%3D), 331 Boul de la Cité-des-Jeunes - Entrée gratuite.
 Diffusion de [*L’héritage des pesticides*](https://ici.radio-canada.ca/tele/la-semaine-verte/site/episodes/694729/maladies-pesticides-parkinson-cancers-agriculteurs), épisode de *La semaine verte* (Radio-Canada, 2023), suivie d’un panel de discussion avec nos invitées suivantes: 
 - Elisabeth McNamara, agricultrice retraitée atteinte de la maladie de Parkinson, membre *de Victimes des pesticides du Québec*
@@ -39,8 +47,6 @@ Diffusion de [*L’héritage des pesticides*](https://ici.radio-canada.ca/tele/l
 - Francesca Cicchetti, chercheure et professeure à l’université Laval<br />
 - Marie-Hélène Bacon,  chercheure et coordinatrice du *Collectif de recherche écosanté sur les pesticides, les politiques et les alternatives* (CREPPA).<br />
 - Serge Boily, cofondateur et vice-président de *Victimes des pesticides du Québec*
-
-📌 À **Coteau-du-Lac** (à déterminer)
 
 *Ces événements seront accompagnés de rencontres spécifiques avec des professionnel-le-s agricoles, élu-e-s, personnalités politiques, scientifiques, juridiques, syndicales et communautaires.*
 
