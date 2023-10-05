@@ -50,7 +50,7 @@ Diffusion de [*L’héritage des pesticides*](https://ici.radio-canada.ca/tele/l
 
 *Ces événements seront accompagnés de rencontres spécifiques avec des professionnel-le-s agricoles, élu-e-s, personnalités politiques, scientifiques, juridiques, syndicales et communautaires.*
 
-{{< figure src="Serge-camera.jpg" alt="Serge Giard, La semaine verte, tournage" >}}
+{{< figure src="Serge-Boily-pancarte.png" alt="Serge Boily, action à Québec, 2023." >}}
 ## **Les enjeux ?**
 
 Malgré la reconnaissance de la maladie de Parkinson comme maladie professionnelle associée aux pesticides par le gouvernement du Québec en 2021 ([Radio-Canada](https://ici.radio-canada.ca/nouvelle/1780853/parkinson-pesticides-maladie-professionnelle-quebec), mars 2021), **seulement une vingtaine de cas ont été reconnus par la CNESST d’après les derniers chiffres communiqués** ([La Presse](https://www.lapresse.ca/actualites/2022-05-01/lesions-liees-aux-pesticides-ou-a-d-autres-produits-agrochimiques/la-cnesst-a-reconnu-13-cas-depuis-cinq-ans.php), mai 2022). Les critères d’admissibilité sont très restrictifs et ne permettent pas à une grande partie des victimes des pesticides d’être reconnues comme malades professionnels. De plus, il est indispensable que les maladies tels **le myélome multiple, le cancer de la prostate, le lymphome non hodgkinien et les troubles cognitifs soient ajoutés à la liste des maladies professionnelles** comme c’est le cas dans d’autres pays. 
