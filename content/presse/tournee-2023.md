@@ -20,8 +20,8 @@ Diffusion de [*L’héritage des pesticides*](https://ici.radio-canada.ca/tele/l
 Diffusion de [*L’héritage des pesticides*](https://ici.radio-canada.ca/tele/la-semaine-verte/site/episodes/694729/maladies-pesticides-parkinson-cancers-agriculteurs), épisode de *La semaine verte* (Radio-Canada, 2023), suivie d’un panel de discussion avec nos invitées suivantes: 
 - Elisabeth McNamara, agricultrice retraitée atteinte de la maladie de Parkinson, membre *de Victimes des pesticides du Québec*
 - Monique Bisson, membre de [*Gatineau sans pesticides*](https://www.facebook.com/groups/4933521170071741) et cofondatrice de *Victimes des pesticides du Québec*
-- Amandine François, coordinatrice de *Victimes des pesticides du Québec*
-
+- Nicole Pelletier, maîtrise spécialisée en agriculture.
+ 
 📌 [À **Victoriaville**, le **jeudi 19 octobre, à 18 h**](https://www.facebook.com/events/299552436135014?acontext=%7B%22event_action_history%22%3A[%7B%22mechanism%22%3A%22your_upcoming_events_unit%22%2C%22surface%22%3A%22bookmark%22%7D]%2C%22ref_notif_type%22%3Anull%7D), en collaboration avec le Cégep de Victoriaville. Au [Grand auditorium (pavillon central) Cégep de Victoriaville](https://maps.apple.com/?address=475%20Rue%20Notre-Dame%20E,%20Victoriaville%20QC%20G6P%204B3,%20Canada&auid=18015406280182673812&ll=46.059589,-71.943718&lsp=9902&q=C%C3%A9gep%20de%20Victoriaville&_ext=CjEKBAgEEGIKBAgFEAMKBAgGEBkKBAgKEAAKBAhSEAcKBAhVEA0KBAhZEAEKBQikARABEiYp3a8CbQ0HR0AxGm5L7c/8UcA5W4UoyTMIR0BBqOQR0/v7UcBQBA%3D%3D) - Entrée gratuite. 
 Diffusion de [*L’héritage des pesticides*](https://ici.radio-canada.ca/tele/la-semaine-verte/site/episodes/694729/maladies-pesticides-parkinson-cancers-agriculteurs), épisode de *La semaine verte*, suivie d’un panel de discussion avec nos invités suivants: 
 - Louis Robert, agronome et lanceur d’alerte <br />
