@@ -5,7 +5,7 @@ description: "Victimes des pesticides du Québec regroupe les personnes victimes
 draft: false
 ---
 
-*Victimes des pesticides du Québec* est une association à but non lucratif qui regroupe les **personnes victimes des pesticides** afin de défendre leurs droits et faire connaître leurs revendications et recommandations pour un Québec en santé.
+*Victimes des pesticides du Québec* est une association à but non lucratif qui regroupe les **personnes victimes des pesticides** afin de défendre leurs droits et faire connaître leurs revendications et recommandations pour un Québec en santé et un système agricole qui protège ses travailleurs·euses. 🌾🌽
 
 Régulièrement, des preuves scientifiques viennent démontrer le rôle des pesticides dans plusieurs maladies.
 Pourtant, les personnes touchées et leur entourage ne reçoivent que **très peu d’attention** de la part de 
