@@ -10,7 +10,7 @@ Nous pouvons vous aider! Avant d’aller plus loin, nous vous encourageons vivem
 
 *Victimes des pesticides du Québec* vient en aide aux personnes concernées par l’exposition aux pesticides. Malgré nos capacités limitées, nos bénévoles et notre coordinatrice sont là pour documenter et comprendre la situation des victimes, les écouter, les aider dans leurs démarches de reconnaissance et d’indemnisation et les rediriger vers les ressources disponibles.
 
-{{< figure src="Tableau-maladies-pesticides.png" title="Tableau des maladies liées à l'exposition aux pesticides. Données tirées du rapport d'expertise de l'Inserm : Pesticides et effets sur la santé - Nouvelles données, 2021." alt="Tableau des maladies liées à l'exposition aux pesticides. Données tirées du rapport d'expertise de l'Inserm : Pesticides et effets sur la santé - Nouvelles données, 2021." >}}
+{{< figure src="Liste-maladies_Inserm.png" title="Tableau des maladies liées à l'exposition aux pesticides. Données tirées du rapport d'expertise de l'Inserm: Pesticides et effets sur la santé - Nouvelles données, 2021." alt="Tableau des maladies liées à l'exposition aux pesticides. Données tirées du rapport d'expertise de l'Inserm : Pesticides et effets sur la santé - Nouvelles données, 2021." >}}
 
 ## 1. Réclamation à la CNESST
 
