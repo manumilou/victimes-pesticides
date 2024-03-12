@@ -20,3 +20,4 @@ la communauté médicale ou des institutions de santé publique. De plus, alors 
 * Promouvoir des solutions non toxiques pour remplacer les pesticides.
 
 **[Rapport d'activités 2021 / 2022](Rapport-annuel-20212022.pdf)**
+**[Rapport d'activités 2022 / 2023](Rapport-annuel_2022:2023.pdf)**
