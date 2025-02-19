@@ -8,7 +8,7 @@ Le mercredi 19 février 2025 - Victimes de pesticides du Québec partage aujourd
 
 « il est urgent de prendre action pour protéger tous les travailleurs et travailleuses agricoles du Québec, il n'est plus acceptable de fermer les yeux sur les maladies graves en lien avec les pesticides qui les touchent, beaucoup d'actions sont à prendre par le gouvernement du Québec et du Canada pour être à la hauteur » - citation de Pascal Priori, co-fondateur de Victimes des pesticides du Québec.
 
-Consulter le rapport de Victimes des pesticides du Québec.
+[Consulter le rapport de Victimes des pesticides du Québec](20210111_Rapport_Pesticides_Maladies_chroniques_Projet_de_Loi_59.pdf).
 
 Du 8 mars au 15 mai 2023, les producteurs et productrices agricoles du Québec ont été invités à répondre à un sondage de 29 questions portant sur leur usage et leur exposition aux pesticides ainsi que sur leur santé et celle de leurs proches.
 
