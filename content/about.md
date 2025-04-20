@@ -19,6 +19,7 @@ la communauté médicale ou des institutions de santé publique. De plus, alors 
 * Diffuser et rendre accessible la recherche scientifique sur les risques liés aux pesticides tout en créant des liens avec les acteurs impliqués dans la recherche.
 * Promouvoir des solutions non toxiques pour remplacer les pesticides.
 
-**[Rapport d'activités 2023 / 2024](Rapport-annuel-20232023.pdf)**
+## Rapports d'activités
 
-**[Rapport d'activités 2022 / 2023](Rapport-annuel_2022:2023.pdf)**
+* [Rapport d'activités 2023 / 2024](Rapport_VPQ-2023-2024.pdf)
+* [Rapport d'activités 2022 / 2023](Rapport-annuel_2022:2023.pdf)
