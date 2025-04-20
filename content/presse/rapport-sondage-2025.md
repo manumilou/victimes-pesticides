@@ -2,7 +2,8 @@
 title: Savoir pour agir - Sondage inédit sur l'exposition aux pesticides des agriculteurs·trices québécois·es
 date: 2025-02-19
 description: Présentation du sondage inédit sur l'exposition aux pesticides des agriculteurs·trices québécois·es
-type: presse 
+type: presse
+url: sondage
 ---
 **Le mercredi 19 février 2025** - *Victimes des pesticides du Québec* partage aujourd'hui les résultats d'un sondage, administré auprès des cotisants de l'UPA en 2023, et présenté lors du [colloque en santé et sécurité au travail (SST)](https://www.upa.qc.ca/producteur/sante-securite-et-mieux-etre/sante-et-securite/colloque-sst) de l'UPA portant sur les risques liés aux pesticides. *Victimes des pesticides du Québec* y a dévoilé les faits saillants de cette enquête inédite, après que le congrès ait été inauguré par Serge Giard, président de VPQ, au travers d'un témoignage. 
 
