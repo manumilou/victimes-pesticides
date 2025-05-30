@@ -1,5 +1,5 @@
 ---
-title: Reconnaissance des malades liés aux pesticides : Victoire pour le cas de Serge Boily
+title: Reconnaissance des malades liés aux pesticides: victoire pour le cas de Serge Boily
 date: 2025-05-30
 description: Un signal envoyé pour toutes les personnes exposées aux pesticides
 type: presse 
@@ -35,6 +35,6 @@ info@victimespesticidesquebec.org
 
 Serge Boily, Thomas Bastien, Félix Lapan et Me Mongeon sont disponibles pour entrevues
 
-[Télécharger le communiqué]()
+[Télécharger le communiqué](VPQ-communique-reconnaissance-serge-boily.pdf)
 
 [Pour en savoir plus sur le dossier de Serge Boily](https://www.victimespesticidesquebec.org/presse/premiere_reconnaissance/)
