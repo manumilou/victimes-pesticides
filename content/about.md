@@ -5,11 +5,12 @@ description: "Victimes des pesticides du Québec regroupe les personnes victimes
 draft: false
 ---
 
-*Victimes des pesticides du Québec* est une association à but non lucratif qui regroupe les **personnes victimes des pesticides** afin de défendre leurs droits et faire connaître leurs revendications et recommandations pour un Québec en santé et un système agricole qui protège ses travailleurs·euses. 🌾🌽
+*Victimes des pesticides du Québec* défend les **personnes victimes des pesticides** et l'intérêt général afin faire connaître les revendications et recommandations pour un Québec en santé et un système agricole qui protège ses travailleurs·euses. 🌾🌽
 
-Régulièrement, des preuves scientifiques viennent démontrer le rôle des pesticides dans plusieurs maladies.
-Pourtant, les personnes touchées et leur entourage ne reçoivent que **très peu d’attention** de la part de 
-la communauté médicale ou des institutions de santé publique. De plus, alors que l’utilisation des pesticides toxiques n’a jamais été aussi importante que ces dernières années, **les gouvernements fédéral et provincial ne semblent toujours pas prêts à prendre des mesures suffisantes pour protéger les personnes exposées.**
+Victimes des pesticides du Québec (VPQ) a été une organisation à but non lucratif de 2020 à 2025 et est maintenant une initiative parrainée par l'[Association pour la santé publique du Québec (ASPQ)](https://aspq.org/) depuis fin juin 2025. 
+
+De plus en plus de preuves scientifiques viennent démontrer le rôle des pesticides dans plusieurs maladies.
+Pourtant, les personnes touchées et leur entourage ne reçoivent que **très peu d’attention** de la part de la communauté médicale ou des institutions de santé publique. De plus, alors que l’utilisation des pesticides toxiques n’a jamais été aussi importante que ces dernières années, **les gouvernements fédéral et provincial ne semblent toujours pas prêts à prendre des mesures suffisantes pour protéger les personnes exposées.**
 
 *Victimes des pesticides du Québec* se donne pour missions de :
 
