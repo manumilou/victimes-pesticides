@@ -3,3 +3,4 @@
 Powered by [Hugo CMS](https://gohugo.io/). Current theme: [Osprey](https://github.com/tomanistor/osprey)
 
 Formulaire de contact: `layout/partials/contact.html`
+
