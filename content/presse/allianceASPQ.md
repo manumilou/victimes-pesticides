@@ -22,6 +22,7 @@ Victimes des pesticides du Québec *est désormais une initiative de l’ASPQ* q
 L’ASPQ regroupe citoyens et partenaires pour faire de la santé durable, par la prévention, une priorité. L’ASPQ soutient le développement social et économique par la promotion d’une conception durable de la santé et du bien-être. La santé durable s’appuie sur une vision à long terme qui, tout en fournissant des soins à tous, s’assure aussi de les garder en santé par la prévention. www.aspq.org.  
 
 ## Contact 
+
 Véra Ferret, Responsable des relations publiques 
 Association pour la santé publique du Québec
-Cellulaire : 450-626-8879 — Courriel : vferret@aspq.org
+Cellulaire: 450-626-8879 — 📧 vferret@aspq.org
