@@ -8,7 +8,8 @@ type: presse
 
 > « il est urgent de prendre action pour protéger tous les travailleurs et travailleuses agricoles du Québec, il n'est plus acceptable de fermer les yeux sur les maladies graves en lien avec les pesticides qui les touchent, beaucoup d'actions sont à prendre par le gouvernement du Québec et du Canada pour être à la hauteur » - citation de Pascal Priori, co-fondateur de *Victimes des pesticides du Québec*.
 
-➡️ [Consulter l'infographie du sondage](VPQ_infographie_Sondage2025VF).
+➡️ [Consulter l'infographie du sondage](VPQ_infographie_Sondage2025VF.pdf).
+
 ➡️ [Consulter le rapport de Victimes des pesticides du Québec](VPQ_Rapport_Sondage_VPQ-18-02-2025Vf.pdf).
 
 
