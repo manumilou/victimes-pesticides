@@ -1,7 +1,7 @@
 ---
-title:  Coalition sur les pesticides : le Canada doit choisir la science et la santé plutôt que les lobbyistes 
+title: "Coalition sur les pesticides : le Canada doit choisir la science et la santé plutôt que les lobbyistes"
 date: 2025-12-18
-description: Communiqué de presse demandant le recul sur l'annonce de la fin des évaluation cyclique et une réforme complète du processus d'évaluation des pesticides au Canada 
+description: "Communiqué de presse demandant le recul sur l'annonce de la fin des évaluation cyclique et une réforme complète du processus d'évaluation des pesticides au Canada"
 type: presse
 ---
 
