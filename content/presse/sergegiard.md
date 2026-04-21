@@ -1,11 +1,11 @@
 ---
 title: "Serge Giard honoré : 50 ans d’engagement pour une agriculture plus saine et la reconnaissance des victimes de pesticides "
-date: 2026-04-20
+date: 2026-04-21
 description: "Communiqué de presse reconnaissant l'engagement de Serge Giard"
 type: presse
 ---
 
-**Montréal, le 22 avril 2026** - L'Association pour la santé publique du Québec (ASPQ) et Victimes des pesticides du Québec (VPQ) se réjouissent de l’attribution du Prix Hommage Bénévolat-Québec à Serge Giard, agriculteur, président fondateur de VPQ. Cette distinction reconnaît près de 50 ans d'engagement bénévole au service d’une agriculture durable, de la santé publique et de la défense des droits des travailleur·euses agricoles.  
+**Montréal, le 21 avril 2026** - L'Association pour la santé publique du Québec (ASPQ) et Victimes des pesticides du Québec (VPQ) se réjouissent de l’attribution du Prix Hommage Bénévolat-Québec décerné par le gouvernement du Québec à Serge Giard, agriculteur, président fondateur de VPQ. Cette distinction reconnaît près de 50 ans d'engagement bénévole au service d’une agriculture durable, de la santé publique et de la défense des droits des travailleur·euses agricoles.  
 
 Atteint de la maladie de Parkinson à la suite d’une exposition prolongée aux pesticides, Serge Giard a transformé une épreuve personnelle en levier de mobilisation collective. Son engagement a contribué à faire évoluer la reconnaissance des maladies professionnelles liées aux pesticides au Québec.
 
