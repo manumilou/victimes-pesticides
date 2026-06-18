@@ -1,7 +1,7 @@
 ---
-title: "Des groupes d’intérêt public condamnent les modifications apportées à la loi fédérale sur les pesticides : elles sont injustifiées, dangereuses et antidémocratique"
+title: "Des groupes d’intérêt public condamnent les modifications apportées à la loi fédérale sur les pesticides: elles sont injustifiées, dangereuses et antidémocratique"
 date: 2026-06-17
-description: "Les modifications cachées dans le projet de loi C-30 affaiblissent les protections environnementales"
+description: "Les modifications cachées dans le projet de loi C-30 affaiblissent les protections"
 type: presse
 ---
 
